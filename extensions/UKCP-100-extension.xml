@@ -1,0 +1,2200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Complex example of an LMF file, containing all possible tags -->
+
+<LexicalResource
+    name="UKCP-100-extension"       
+    prefix="ex1" 
+    xmlns:ex1="https://github.com/francisjqr/ER-Wordnet-Extension/blob/master/UKCP-100-extension.xml"
+    xmlns:wn31="https://github.com/diversicon-kb/diversicon-wordnet-3.1"
+         
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://diversicon-kb.eu/schema/1.0/diversicon.xsd">
+
+    <GlobalInformation label="100 terms - UKCP Glossary"></GlobalInformation>
+
+    <MetaData id="ex1_md"
+              creationDate="2017-03-15"
+              creationTool="text editor"
+              version="1.0"   
+              creationProcess="by hand"
+              automatic="false"
+              />    
+    
+    <Lexicon id="ex1_lex_eng"
+             languageIdentifier="eng" 
+             name="Example UKCP English lexicon">
+         
+
+         <!-- Lexical entries -->   
+        
+        <LexicalEntry id="ex1_le_4x4-response" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="4x4 response"/>
+            </Lemma>
+            <Sense id="ex1_s_4x4-response" 
+                synset="ex1_ss_4x4-response">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 8, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_access_control_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="access control point"/>
+            </Lemma>
+            <Sense id="ex1_s_access_control_point" 
+                synset="ex1_ss_access-control_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 9, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_agency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="agency"/>
+            </Lemma>
+            <Sense id="ex1_s_agency" 
+                synset="n-08024893">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 15, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_air_ambulance" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="air ambulance"/>
+            </Lemma>
+            <Sense id="ex1_s_air_ambulance" 
+                synset="ex1_ss_air_ambulance">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 18, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_airwave" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="airwave"/>
+            </Lemma>
+            <Sense id="ex1_s_airwave" 
+                synset="ex1_ss_airwave">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 21, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_assembly_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="assembly point"/>
+            </Lemma>
+            <Sense id="ex1_s_assembly_point" 
+                synset="ex1_ss_evacuation_assembly_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 33, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_assistance_centre" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="assistance centre"/>
+            </Lemma>
+            <Sense id="ex1_s_assistance_centre" 
+                synset="ex1_ss_assistance_centre">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 34, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_back_up" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="back-up"/>
+            </Lemma>
+            <Sense id="ex1_s_back_up" 
+                synset="ex1_ss_back_up">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 43, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_blue_route" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="blue route"/>
+            </Lemma>
+            <Sense id="ex1_s_blue_route" 
+                synset="ex1_ss_blue_route">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 45, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_body_collection_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="body collection point"/>
+            </Lemma>
+            <Sense id="ex1_s_body_collection_point" 
+                synset="ex1_ss_body_collection_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 47, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_body_holding_area" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="body holding area"/>
+            </Lemma>
+            <Sense id="ex1_s_body_holding_area" 
+                synset="ex1_ss_body_collection_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 48, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_body_viewing_area" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="body viewing area"/>
+            </Lemma>
+            <Sense id="ex1_s_body_viewing_area" 
+                synset="ex1_ss_body_viewing_area">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 49, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_bronze" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="bronze"/>
+            </Lemma>
+            <Sense id="ex1_s_bronze" 
+                synset="ex1_ss_bronze">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 54, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_capability" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="capability"/>
+            </Lemma>
+            <Sense id="ex1_s_capability" 
+                synset="ex1_ss_capability">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 67, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_casualty" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="casualty"/>
+            </Lemma>
+            <Sense id="ex1_s_casualty1" 
+                synset="ex1_ss_casualty1">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 71, Column 1 in CSV"/>
+            </Sense>
+            <Sense id="ex1_s_casualty2" 
+                synset="ex1_ss_casualty2">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 71, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_casualty_bureau" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="casualty bureau"/>
+            </Lemma>
+            <Sense id="ex1_s_casualty_bureau" 
+                synset="ex1_ss_casualty_bureau">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 74, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_casualty_clearing_officer" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="casualty clearing officer"/>
+            </Lemma>
+            <Sense id="ex1_s_casualty_clearing_officer" 
+                synset="ex1_ss_casualty_clearing_officer">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 75, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+      
+        <LexicalEntry id="ex1_le_casualty_information_unit" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="casualty information unit"/>
+            </Lemma>
+            <Sense id="ex1_s_casualty_information_unit" 
+                synset="ex1_ss_casualty_information_unit">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 78, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_casualty_receiving_hospital" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="casualty receiving hospital"/>
+            </Lemma>
+            <Sense id="ex1_s_casualty_receiving_hospital" 
+                synset="ex1_ss_designated_receiving_hospital">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 79, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_catastrophic_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="catastrophic emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_catastrophic_emergency" 
+                synset="ex1_ss_catastrophic_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 80, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_category1_responder" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="category 1 responder"/>
+            </Lemma>
+            <Sense id="ex1_s_category1_responder" 
+                synset="ex1_ss_category1_responder">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 81, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_category2_responder" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="category 2 responder"/>
+            </Lemma>
+            <Sense id="ex1_s_category2_responder" 
+                synset="ex1_ss_category2_responder">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 82, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_cold_zone" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="cold zone"/>
+            </Lemma>
+            <Sense id="ex1_s_cold_zone" 
+                synset="ex1_ss_cold_zone">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 112, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_command_and_control" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="command and control"/>
+            </Lemma>
+            <Sense id="ex1_s_command_and_control" 
+                synset="ex1_ss_command_and_control">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 115, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_command_and_control_level" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="command and control level"/>
+            </Lemma>
+            <Sense id="ex1_s_command_and_control_level" 
+                synset="ex1_ss_command_and_control_level">
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_command_protocol" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="command protocol"/>
+            </Lemma>
+            <Sense id="ex1_s_command_protocol" 
+                synset="ex1_ss_command_protocol">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 116, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_control_centre" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="control centre"/>
+            </Lemma>
+            <Sense id="ex1_s_control_centre" 
+                synset="ex1_ss_control_centre">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 140, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_control_room" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="control room"/>
+            </Lemma>
+            <Sense id="ex1_s_control_room" 
+                synset="ex1_ss_control_centre">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 145, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_controlled_area" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="controlled area"/>
+            </Lemma>
+            <Sense id="ex1_s_controlled_area" 
+                synset="ex1_ss_controlled_area">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 146, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_crisis" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="crisis"/>
+            </Lemma>
+            <Sense id="ex1_s_crisis" 
+                synset="ex1_ss_crisis">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 163, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_critical_incident" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="critical incident"/>
+            </Lemma>
+            <Sense id="ex1_s_critical_incident" 
+                synset="ex1_ss_critical_incident">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 172, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_cruse" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="cruse"/>
+            </Lemma>
+            <Sense id="ex1_s_cruse" 
+                synset="ex1_ss_cruse">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 182, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_decontamination_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="decontamination point"/>
+            </Lemma>
+            <Sense id="ex1_s_decontamination_point" 
+                synset="ex1_ss_decontamination_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 189, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_designated_receiving_hospital" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="designated receiving hospital"/>
+            </Lemma>
+            <Sense id="ex1_s_designated_receiving_hospital" 
+                synset="ex1_ss_designated_receiving_hospital">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 200, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_disaster" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="disaster"/>
+            </Lemma>
+            <Sense id="ex1_s_disaster" 
+                synset="ex1_ss_disaster">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 207, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_downstream" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="downstream"/>
+            </Lemma>
+            <Sense id="ex1_s_downstream" 
+                synset="ex1_ss_downstream">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 218, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_emergency" 
+                synset="ex1_ss_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 221, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_evacuation_assembly_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="evacuation assembly point"/>
+            </Lemma>
+            <Sense id="ex1_s_evacuation_assembly_point" 
+                synset="ex1_ss_evacuation_assembly_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 255, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_event" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="event"/>
+            </Lemma>
+            <Sense id="ex1_s_event" 
+                synset="ex1_ss_incident">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 259, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_exclusion_zone" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="exclusion zone"/>
+            </Lemma>
+            <Sense id="ex1_s_exclusion_zone" 
+                synset="ex1_ss_exclusion_zone">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 261, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+       
+        <LexicalEntry id="ex1_le_extranet" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="extranet"/>
+            </Lemma>
+            <Sense id="ex1_s_extranet" 
+                synset="ex1_ss_national_resilience_extranet">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 271, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_gold" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="gold"/>
+            </Lemma>
+            <Sense id="ex1_s_gold" 
+                synset="ex1_ss_gold">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 297, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_helpline" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="helpline"/>
+            </Lemma>
+            <Sense id="ex1_s_helpline" 
+                synset="ex1_ss_helpline">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 340, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_holding_area" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="holding area"/>
+            </Lemma>
+            <Sense id="ex1_s_holding_area" 
+                synset="ex1_ss_holding_area">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 349, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_host_organisation" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="host organisation"/>
+            </Lemma>
+            <Sense id="ex1_s_host_organisation" 
+                synset="ex1_ss_host_organisation">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 352, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_hot_zone" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="hot zone"/>
+            </Lemma>
+            <Sense id="ex1_s_hot_zone" 
+                synset="ex1_ss_hot_zone">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 354, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_incident" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="incident"/>
+            </Lemma>
+            <Sense id="ex1_s_incident" 
+                synset="ex1_ss_incident">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 364, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_inner_cordon" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="inner cordon"/>
+            </Lemma>
+            <Sense id="ex1_s_inner_cordon" 
+                synset="ex1_ss_inner_cordon">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 372, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_large_scale_evacuation" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="large scale evacuation"/>
+            </Lemma>
+            <Sense id="ex1_s_large_scale_evacuation" 
+                synset="ex1_ss_large_scale_evacuation">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 390, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_lead_responder" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="lead responder"/>
+            </Lemma>
+            <Sense id="ex1_s_lead_responder" 
+                synset="ex1_ss_lead_responder">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 396, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_level1_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="level 1 emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_level1_emergency" 
+                synset="ex1_ss_significant_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 398, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_level2_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="level 2 emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_level2_emergency" 
+                synset="ex1_ss_serious_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 399, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_level3_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="level 3 emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_level3_emergency" 
+                synset="ex1_ss_catastrophic_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 400, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_level_of_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="level of emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_level_of_emergency" 
+                synset="ex1_ss_level_of_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 401, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_loading_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="loading point"/>
+            </Lemma>
+            <Sense id="ex1_s_loading_point" 
+                synset="n-08560786">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 406, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_local_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="local emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_local_emergency" 
+                synset="ex1_ss_local_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 408, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_major_accident" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="major accident"/>
+            </Lemma>
+            <Sense id="ex1_s_major_accident" 
+                synset="ex1_ss_major_accident">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 423, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_major_incident" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="major incident"/>
+            </Lemma>
+            <Sense id="ex1_s_major_incident" 
+                synset="ex1_ss_major_incident">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 427, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_marshalling_area" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="marshalling area"/>
+            </Lemma>
+            <Sense id="ex1_s_marshalling_area" 
+                synset="ex1_ss_marshalling_area">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 436, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_mass_evacuation" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="mass evacuation"/>
+            </Lemma>
+            <Sense id="ex1_s_mass_evacuation" 
+                synset="ex1_ss_mass_evacuation">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 440, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_media" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="media"/>
+            </Lemma>
+            <Sense id="ex1_s_media" 
+                synset="ex1_ss_media">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 444, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_media_liaison_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="media liaison point"/>
+            </Lemma>
+            <Sense id="ex1_s_media_liaison_point" 
+                synset="ex1_ss_media_liaison_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 448, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_media_liaison_officer" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="media liaison officer"/>
+            </Lemma>
+            <Sense id="ex1_s_media_liaison_officer" 
+                synset="ex1_ss_media_liaison_officer">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 447, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_media_protocol" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="media protocol"/>
+            </Lemma>
+            <Sense id="ex1_s_media_protocol" 
+                synset="ex1_ss_media_liaison_protocol">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 450, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_medium_scale_evacuation" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="medium-scale evacuation"/>
+            </Lemma>
+            <Sense id="ex1_s_medium_scale_evacuation" 
+                synset="ex1_ss_medium_scale_evacuation">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 455, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_mutual_aid" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="mutual aid"/>
+            </Lemma>
+            <Sense id="ex1_s_mutual_aid" 
+                synset="ex1_ss_mutual_aid">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 487, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_national_resilience_extranet" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="national resilience extranet"/>
+            </Lemma>
+            <Sense id="ex1_s_national_resilience_extranet" 
+                synset="ex1_ss_national_resilience_extranet">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 495, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_nhs24" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="NHS 24"/>
+            </Lemma>
+            <Sense id="ex1_s_nhs24" 
+                synset="ex1_ss_nhs_direct">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 509, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_nhs_direct" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="NHS direct"/>
+            </Lemma>
+            <Sense id="ex1_s_nhs_direct" 
+                synset="ex1_ss_nhs_direct">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 510, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_non_governmental_organisation" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="non governmental organisation"/>
+            </Lemma>
+            <Sense id="ex1_s_non_governmental_organisation" 
+                synset="ex1_ss_non_governmental_organisation">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 513, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+       
+        <LexicalEntry id="ex1_le_operational" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="operational"/>
+            </Lemma>
+            <Sense id="ex1_s_operational" 
+                synset="ex1_ss_bronze">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 534, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_outer_cordon" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="outer cordon"/>
+            </Lemma>
+            <Sense id="ex1_s_outer_cordon" 
+                synset="ex1_ss_outer_cordon">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 542, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_primary_care_trust" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="primary care trust"/>
+            </Lemma>
+            <Sense id="ex1_s_primary_care_trust" 
+                synset="ex1_ss_primary_care_trust">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 571, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_public_information_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="public information point"/>
+            </Lemma>
+            <Sense id="ex1_s_public_information_point" 
+                synset="ex1_ss_public_information_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 587, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_receiving_hospital" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="receiving hospital"/>
+            </Lemma>
+            <Sense id="ex1_s_receiving_hospital" 
+                synset="ex1_ss_receiving_hospital">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 612, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_rendezvous_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="rendezvous point"/>
+            </Lemma>
+            <Sense id="ex1_s_rendezvous_point" 
+                synset="ex1_ss_rendezvous_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 634, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_responder" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="responder"/>
+            </Lemma>
+            <Sense id="ex1_s_responder" 
+                synset="ex1_ss_responder">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 642, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_response" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="response"/>
+            </Lemma>
+            <Sense id="ex1_s_response" 
+                synset="ex1_ss_response">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 644, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_scene_access_control_point" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="scene access control point"/>
+            </Lemma>
+            <Sense id="ex1_s_scene_access_control_point" 
+                synset="ex1_ss_scene_access_control_point">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 665, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_serious_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="serious emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_serious_emergency" 
+                synset="ex1_ss_serious_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 684, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_significant_emergency" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="significant emergency"/>
+            </Lemma>
+            <Sense id="ex1_s_significant_emergency" 
+                synset="ex1_ss_significant_emergency">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 688, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_silver" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="silver"/>
+            </Lemma>
+            <Sense id="ex1_s_silver" 
+                synset="ex1_ss_silver">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 689, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_small_scale_evacuation" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="small scale evacuation"/>
+            </Lemma>
+            <Sense id="ex1_s_small_scale_evacuation" 
+                synset="ex1_ss_small_scale_evacuation">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 698, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_spontaneous_incident" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="spontaneous incident"/>
+            </Lemma>
+            <Sense id="ex1_s_spontaneous_incident" 
+                synset="ex1_ss_spontaneous_incident">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 701, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_strategic" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="strategic"/>
+            </Lemma>
+            <Sense id="ex1_s_strategic" 
+                synset="ex1_ss_gold">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 713, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_tactical" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="tactical"/>
+            </Lemma>
+            <Sense id="ex1_s_tactical" 
+                synset="ex1_ss_silver">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 732, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_traffic_cordon" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="traffic cordon"/>
+            </Lemma>
+            <Sense id="ex1_s_traffic_cordon" 
+                synset="ex1_ss_traffic_cordon">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 753, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_upstream" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="upstream"/>
+            </Lemma>
+            <Sense id="ex1_s_upstream" 
+                synset="ex1_ss_upstream">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 763, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <LexicalEntry id="ex1_le_warm_zone" 
+            partOfSpeech="noun">
+            <Lemma>
+                <FormRepresentation languageIdentifier="eng" 
+                    writtenForm="warm zone"/>
+            </Lemma>
+            <Sense id="ex1_s_warm_zone" 
+                synset="ex1_ss_warm_zone">
+                <MonolingualExternalRef externalSystem="UKCP" 
+                    externalReference="Line 785, Column 1 in CSV"/>
+            </Sense>
+        </LexicalEntry>
+        
+        <!-- Synsets -->
+        
+        <Synset id="ex1_ss_warm_zone">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="In this zone some cross contamination from the Hot Zone is to be expected. The level of PPE will need to be determined on the basis of dynamic risk assessment."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 785, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08705985"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_upstream">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="That portion of the river which is closer to the river's source than the reference point"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 763, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-09411430"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_traffic_cordon">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Supplementary cordon around the outer cordon to control internal traffic access for emergency and other vehicles."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 753, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08393679"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        
+        <Synset id="ex1_ss_spontaneous_incident">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Incident in relation to which the police have not had prior warning or notification to develop strategies, tactics and contingency plans (in contrast to pre-planned incident)."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 701, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_incident"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_small_scale_evacuation">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Evacuation of up to 1,000 people from a place of danger to a place of relative safety."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 698, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_command_and_control_level"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_silver">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="The tactical tier of command and control within a single agency (below Gold level and above Bronze level) at which the response to an emergency is managed."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 689, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_command_and_control_level"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_significant_emergency">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Lowest level of emergency (Level 1), requiring central government support through a nominated lead government department. See also catastrophic emergency (Level 3); serious emergency (Level 2)."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 688, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_level_of_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_serious_emergency">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Second highest level of emergency (Level 2), requiring central government direction. See also catastrophic emergency (Level 3); significant emergency (Level 1)."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 684, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_level_of_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_scene_access_control_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Controlled point through which essential personnel may gain access through the inner cordon."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 665, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_response">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Decisions and actions taken in accordance with the strategic, tactical and operational objectives defined by emergency responders. At a high level these will be to protect life, contain and mitigate the impacts of the emergency and create the conditions for a return to normality."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 644, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-05846685"
+                relType="taxonomic" 
+                relName="hypernym"/>
+            <SynsetRelation target="n-00038116"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_responder">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Organisation required to plan and prepare a response to an emergency"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 642, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_rendezvous_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Point to which all resources arriving at the outer cordon are directed for logging, briefing, equipment issue and deployment."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 634, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_receiving_hospital">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="One of the designated receiving hospitals identified by the strategic health authority and selected by the ambulance service to receive casualties during an emergency."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 612, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-03545775"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_public_information_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Location providing access to information for members of the public during an emergency"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 587, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_primary_care_trust">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Local organisation within the National Health service responsible for the first point of consultation for all patients seeking healthcare."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 571, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_outer_cordon">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Cordon established around the vicinity of an incident, and encompassing the inner cordon, to control access to a wider area around the scene, to allow the emergency services and other agencies to work unhindered and in privacy."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 542, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08393679"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_non_governmental_organisation">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Private organisation dedicated to pro-social activities such as the relief of suffering and poverty, protection of the environment and community development"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 513, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_nhs_direct">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="National health service 24-hour helpline providing advice and information relating to health in England and Wales (as NHS Direct Wales)"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 510, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_helpline"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_national_resilience_extranet">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Secure web based infrastructure to enable multi-agency information sharing and which has a specific information function during emergency response and recovery."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 495, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08451269"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_mutual_aid">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="An agreement between Category 1 and 2 responders and other organisations not covered by the Act, within the same sector or across sectors and across boundaries, to provide assistance with additional resource during an emergency."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 487, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-01219005"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_medium_scale_evacuation">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Evacuation of between 1,000 to 25,000 people from a place of danger to a place of relative safety"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 455, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-00055641"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_media_protocol">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Protocol to oversee the flow of public information, respond to media queries, handle requests for media interviews, brief the media, and establish a Media Centre"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 450, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-05676759"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_media_liaison_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Area adjacent to the scene, staffed by Media Liaison Officers, for the reception and accreditation of media personnel and for briefing on reporting, filming and photographing"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 448, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_media_liaison_officer">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Representative who has responsibility for liaising with the media on behalf of his/her organisation"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 447, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-10541628"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_media">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Press and electronic news reporting agencies"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 444, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        
+        <Synset id="ex1_ss_mass_evacuation">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Evacuation of a large number of people (100,000+) from a place of danger to a place of relative safety"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 440, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-00055641"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        
+        <Synset id="ex1_ss_marshalling_area">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Generic term for an area to which resources and personnel not immediately required at the scene or being held for further use can be directed to stand by"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 436, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-02738693"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_major_incident">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Event or situation requiring a response under one or more of the emergency services' major incident plans"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 427, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_incident"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_major_accident">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Accident of a sufficiently large scale to constitute an emergency"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 423, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-07315954"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_local_emergency">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Emergency with local impact, the response to which is conducted by local responders, where necessary in conjunction with local government"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 408, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_level_of_emergency">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Cabinet Office (2010) Central Government Arrangements for Responding to an Emergency defines three levels of emergency of national significance. These are, in descending order of magnitude, catastrophic emergency (Level 3); serious emergency (Level 2); significant emergency (Level 1). Below the national level there is a further category, local emergency, the response to which is conducted by local responders, where necessary in conjunction with local government."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 401, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-05101152"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+            <SynsetRelation target="ex1_ss_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_lead_responder">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="A Category 1 responder charged with carrying out a duty under the Act on behalf of a number of responder organisations, so as to co-ordinate its delivery and to avoid unnecessary duplication."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 396, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_category1_responder"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_large_scale_evacuation">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Evacuation of between 25,000 and 100,000 people from a place of danger to a place of relative safety."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 390, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-00055641"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_inner_cordon">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Cordon established to secure the immediate scene and provide a measure of protection for personnel working within the area"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 372, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08393679"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_incident">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Event or situation that requires a response from the emergency services or other responders,Note: emergency (or major incident) refers to a specific type of incident requiring special deployment by one or more category 1 responder"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 364, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-07298313"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+            <SynsetRelation target="n-13950416"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+        </Synset>
+        
+        <Synset id="ex1_ss_hot_zone">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Zone of the highest level of contamination."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 354, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08705985"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_host_organisation">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="(Local authority guidance term for) Local authority in whose operational area an emergency has occurred, and which requires support to deal with it"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 352, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_holding_area">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Generic term for an area to which resources and personnel not immediately required at the scene or being held for further use, can be directed to standby"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 349, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-02738693"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_helpline">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Telephone (and often email) system by which people affected by an emergency can obtain help or services or provide information"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 340, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-04409881"
+                relType="taxonomic" 
+                relName="hypernym"/> 
+            
+            <SynsetRelation target="n-06289979"
+                relType="taxonomic" 
+                relName="hypernym"/>
+        </Synset>
+        
+        <Synset id="ex1_ss_gold">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="The strategic level of command and control (above Silver level and Bronze level) at which policy, strategy and the overall response framework are established and managed for individual responder agencies."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 297, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_command_and_control_level"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+               
+        <Synset id="ex1_ss_exclusion_zone">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Area, usually within the inner cordon, to which access is normally denied to all personnel, including emergency services. See also cordon."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 261, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08705985"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_evacuation_assembly_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Building or area on the periphery of an area affected by an emergency, to which evacuees are directed to await transfer to a survivor reception centre or rest centre"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 255, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_emergency">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="An event or situation which threatens serious damage to human welfare in a place in the UK, the environment of a place in the UK, or the security of the UK or of a place in the UK."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 221, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-07431314"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_downstream">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="That portion of the river which is farther from the river's source than the reference point."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 218, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-09411430"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+       
+        <Synset id="ex1_ss_disaster">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Emergency (usually but not exclusively of natural causes) causing, or threatening to cause, widespread and serious disruption to community life through death, injury, and/or damage to property and/or the environment."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 207, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+       
+        <Synset id="ex1_ss_designated_receiving_hospital">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Hospital designated by a Strategic Health Authority as suitable for receiving injured persons from an emergency."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 200, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-03545775"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+       
+        <Synset id="ex1_ss_decontamination_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="The position on the inner cordon at which decontamination is carried out."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 189, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+       
+        <Synset id="ex1_ss_cruse">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Charitable organisation offering bereavement counselling, advice and support throughout the UK."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 182, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_critical_incident">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Incident in which the police response is likely to have a significant impact on the confidence of the victim, his/her family and/or the community."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 172, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_incident"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_crisis">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Specific definition - emergency of magnitude and/or severity requiring the activation of central government response"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 163, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_controlled_area">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Area contained by an outer cordon."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 146, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-02738693"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_control_centre">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Operations centre from which the management and co-ordination of the response by each emergency service to an emergency are carried out."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 140, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-03319968"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_command_protocol">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Established procedure(s) delineating lines of command and responsibility in the response to an incident or emergency."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 116, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-05676759"
+                relType="taxonomic" 
+                relName="hypernym"/>    
+        </Synset>
+        
+        <Synset id="ex1_ss_command_and_control_level">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Level of command and control of a specific situation"/>
+            </Definition>
+            
+            <SynsetRelation target="ex1_ss_command_and_control"
+                relType="taxonomic" 
+                relName="hypernym"/>
+            <SynsetRelation target="n-14451564"
+                relType="taxonomic" 
+                relName="hypernym"/>  
+        </Synset>
+        
+        <Synset id="ex1_ss_command_and_control">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="The exercise of vested authority through means of communications and the management of available assets and capabilities, in order to achieve defined objectives."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 115, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-05205065"
+                relType="taxonomic" 
+                relName="hypernym"/>
+            <SynsetRelation target="n-05203643"
+                relType="taxonomic" 
+                relName="hypernym"/>  
+        </Synset>
+        
+        <Synset id="ex1_ss_cold_zone">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="This is the area beyond the inner cordon."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 112, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08705985"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_category2_responder">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="A person or body listed in Part 3 of Schedule 1 to the Civil Contingencies Act. These are co-operating responders who are less likely to be involved in the heart of multi-agency planning work, but will be heavily involved in preparing for incidents affecting their sectors. The Act requires them to co-operate and share information with other Category 1 and 2 responders."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 82, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_responder"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_category1_responder">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="A person or body listed in Part 1 of Schedule 1 to the Civil Contingencies Act. These bodies are likely to be at the core of the response to most emergencies. As such, they are subject to the full range of civil protection duties in the Act."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 81, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_responder"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_catastrophic_emergency">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="An emergency which  has  an  exceptionally  high  and  potentially  widespread  impact  and  requires  immediate  central  government  direction  and  support."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 80, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_emergency"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_casualty_information_unit">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Element within the Casualty Bureau responsible for the recording of casualty data forwarded by Hospital Documentation Teams"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 78, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-13832535"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+    
+        
+        <Synset id="ex1_ss_casualty_clearing_officer">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Ambulance officer who, in liaison with the Medical Incident Commander, ensures an efficient patient throughput at the Casualty Clearing Station."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 75, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-10541628"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_casualty_bureau">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Initial point of contact and information, maintained by the police, for all data relating to casualties."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 74, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-06271913"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_casualty1">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="(In a maritime emergency) Vessel in distress."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 71, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-04537861"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_casualty2">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="(For Casualty Bureau purpose) Person known, or believed, to be involved in an incident, including evacuees, survivors, and deceased."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 71, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-00007846"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_capability">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="A demonstrable ability to respond to and recover from a particular threat or hazard."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 67, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-05207437"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_bronze">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="The tier of command and control within a single agency (below gold level and silver level) at which the management of Ôhands-onÕ work is undertaken at the incident site(s) or associated areas,Bronze level is also known as the operational level."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 54, Column 1 in CSV"/>
+            
+            <SynsetRelation target="ex1_ss_command_and_control_level"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_body_viewing_area">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Area in which family members may view the bodies of people who have died in an emergency."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 49, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-02738693"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_body_collection_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="See Holding and audit area for deceased people and human remains."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 47, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_blue_route">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="A dedicate route for emergency vehicles to access
+                    to and egress from the scene of an emergency or major incident."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 45, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08633886"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_back_up">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Military or emergency services contingent providing additional support in an operation."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 43, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-01212066"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_assistance_centre">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Any facility (whether physical or virtual) set up during response to and recovery from an emergency to provide a range of assistance to different categories of people affected by the emergency. See also:  Family and Friends Reception Centre; Friends and Relatives Reception Centre; Humanitarian Assistance Centre; Public Information Point; Responders Welfare Centre; Rest Centre; Survivor Reception Centre"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 34, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-03319968"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset>
+        
+        <Synset id="ex1_ss_airwave">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="The common, secure digital radio system used by the emergency services and others in the resilience and security community. The system is based on the TETRA standards set."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 21, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-04048624"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset> 
+        
+        <Synset id="ex1_ss_air_ambulance">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Aircraft (usually a helicopter) used primarily to transport medical or paramedical staff to the site of an incident or emergency and casualties to specialist trauma centres and/or designated hospitals"/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 18, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-02689427"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset> 
+        
+        <Synset id="ex1_ss_4x4-response">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="A voluntary sector organisation that provides 4x4
+                    vehicles and drivers to support emergency responders and voluntary
+                    organisations when road or weather conditions prevent their normal
+                    vehicles from operating, or their vehicles or drivers are depleted."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 8, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08024893"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset> 
+        
+        <Synset id="ex1_ss_access_control_point">
+            <Definition>
+                <TextRepresentation languageIdentifier="eng" 
+                    writtenText="Controlled point through which essential non-
+                    emergency service personnel may gain access through the outer cor-
+                    don."/>
+            </Definition>
+            <MonolingualExternalRef externalSystem="UKCP" 
+                externalReference="Line 9, Column 1 in CSV"/>
+            
+            <SynsetRelation target="n-08637636"
+                relType="taxonomic" 
+                relName="hypernym"/>   
+        </Synset> 
+        
+                
+    </Lexicon>  
+    
+                  
+</LexicalResource>

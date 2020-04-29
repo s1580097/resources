@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<context>
+	<node id="b0">
+		<name>Top</name>
+		<children>
+			<node id="b1" parent_id="b0">
+				<name>Drug-induced tremor</name>
+			</node>
+			<node id="b2" parent_id="b0">
+				<name>Drug induced akathisia</name>
+			</node>
+			<node id="b3" parent_id="b0">
+				<name>Obstructive sleep apnea</name>
+			</node>
+			<node id="b4" parent_id="b0">
+				<name>Drug induced acute dystonia</name>
+			</node>
+			<node id="b5" parent_id="b0">
+				<name>Male orgasmic disorder</name>
+			</node>
+			<node id="b6" parent_id="b0">
+				<name>Premature ejaculation</name>
+			</node>
+			<node id="b7" parent_id="b0">
+				<name>Other bipolar disorder</name>
+			</node>
+			<node id="b8" parent_id="b0">
+				<name>Bipolar disorder</name>
+			</node>
+			<node id="b9" parent_id="b0">
+				<name>Circadian rhythm sleep disorder</name>
+			</node>
+			<node id="b10" parent_id="b0">
+				<name>Circadian rhythm sleep disorder delayed sleep phase type</name>
+			</node>
+			<node id="b11" parent_id="b0">
+				<name>Circadian rhythm sleep disorder advanced sleep phase type</name>
+			</node>
+			<node id="b12" parent_id="b0">
+				<name>Circadian rhythm sleep disorder irregular sleep wake type</name>
+			</node>
+			<node id="b13" parent_id="b0">
+				<name>Circadian rhythm sleep disorder free running type</name>
+			</node>
+			<node id="b14" parent_id="b0">
+				<name>Circadian rhythm sleep disorder shift work type</name>
+			</node>
+			<node id="b15" parent_id="b0">
+				<name>Primary central sleep apnea</name>
+			</node>
+			<node id="b16" parent_id="b0">
+				<name>REM sleep behavior disorder</name>
+			</node>
+			<node id="b17" parent_id="b0">
+				<name>Other sleep disorders</name>
+			</node>
+			<node id="b18" parent_id="b0">
+				<name>Sleep disorder</name>
+			</node>
+			<node id="b19" parent_id="b0">
+				<name>Neuroleptic induced parkinsonism</name>
+			</node>
+			<node id="b20" parent_id="b0">
+				<name>Other drug induced secondary parkinsonism</name>
+			</node>
+			<node id="b21" parent_id="b0">
+				<name>Other stimulant dependence with withdrawal</name>
+			</node>
+			<node id="b22" parent_id="b0">
+				<name>Periodic breathing</name>
+			</node>
+			<node id="b23" parent_id="b0">
+				<name>Transient tic disorder</name>
+			</node>
+			<node id="b24" parent_id="b0">
+				<name>Hypochondriasis</name>
+			</node>
+			<node id="b25" parent_id="b0">
+				<name>Other specified eating disorder</name>
+			</node>
+			<node id="b26" parent_id="b0">
+				<name>Other gender identity disorders</name>
+			</node>
+			<node id="b27" parent_id="b0">
+				<name>Pathological gambling</name>
+			</node>
+			<node id="b28" parent_id="b0">
+				<name>Unspecified problems related to employment</name>
+			</node>
+			<node id="b29" parent_id="b0">
+				<name>Dysthymic disorder</name>
+			</node>
+			<node id="b30" parent_id="b0">
+				<name>Undifferentiated somatoform disorder</name>
+			</node>
+			<node id="b31" parent_id="b0">
+				<name>Fetishism</name>
+			</node>
+			<node id="b32" parent_id="b0">
+				<name>Transvestic fetishism</name>
+			</node>
+			<node id="b33" parent_id="b0">
+				<name>Exhibitionism</name>
+			</node>
+			<node id="b34" parent_id="b0">
+				<name>Voyeurism</name>
+			</node>
+			<node id="b35" parent_id="b0">
+				<name>Pedophilia</name>
+			</node>
+			<node id="b36" parent_id="b0">
+				<name>Sexual masochism</name>
+			</node>
+			<node id="b37" parent_id="b0">
+				<name>Sexual sadism</name>
+			</node>
+			<node id="b38" parent_id="b0">
+				<name>Frotteurism</name>
+			</node>
+			<node id="b39" parent_id="b0">
+				<name>Autistic disorder</name>
+			</node>
+			<node id="b40" parent_id="b0">
+				<name>Acute stress reaction</name>
+			</node>
+			<node id="b41" parent_id="b0">
+				<name>Discord with neighbors lodgers and landlord</name>
+			</node>
+			<node id="b42" parent_id="b0">
+				<name>Discord with counselors</name>
+			</node>
+			<node id="b43" parent_id="b0">
+				<name>Encopresis not due to a substance or known physiological condition</name>
+			</node>
+			<node id="b44" parent_id="b0">
+				<name>Enuresis not due to a substance or known physiological condition</name>
+			</node>
+			<node id="b45" parent_id="b0">
+				<name>Male erectile disorder</name>
+			</node>
+			<node id="b46" parent_id="b0">
+				<name>Dyspareunia not due to a substance or known physiological condition</name>
+			</node>
+			<node id="b47" parent_id="b0">
+				<name>Other disorders of psychological development</name>
+			</node>
+			<node id="b48" parent_id="b0">
+				<name>Hallucinogen use unspecified with hallucinogen persisting perception disorder</name>
+			</node>
+			<node id="b49" parent_id="b0">
+				<name>Factitial dermatitis</name>
+			</node>
+			<node id="b50" parent_id="b0">
+				<name>Hypersomnia</name>
+			</node>
+			<node id="b51" parent_id="b0">
+				<name>Idiopathic sleep related nonobstructive alveolar hypoventilation</name>
+			</node>
+			<node id="b52" parent_id="b0">
+				<name>Developmental disorder of speech and language</name>
+			</node>
+			<node id="b53" parent_id="b0">
+				<name>Kleptomania</name>
+			</node>
+			<node id="b54" parent_id="b0">
+				<name>Hypoactive sexual desire disorder</name>
+			</node>
+			<node id="b55" parent_id="b0">
+				<name>Malingerer</name>
+			</node>
+			<node id="b56" parent_id="b0">
+				<name>Disorientation</name>
+			</node>
+			<node id="b57" parent_id="b0">
+				<name>Other hypersomnia</name>
+			</node>
+			<node id="b58" parent_id="b0">
+				<name>Other insomnia</name>
+			</node>
+			<node id="b59" parent_id="b0">
+				<name>Other conduct disorders</name>
+			</node>
+			<node id="b60" parent_id="b0">
+				<name>Panic disorder</name>
+			</node>
+			<node id="b61" parent_id="b0">
+				<name>Paranoid personality disorder</name>
+			</node>
+			<node id="b62" parent_id="b0">
+				<name>Parent-biological child conflict</name>
+			</node>
+			<node id="b63" parent_id="b0">
+				<name>Other reactions to severe stress</name>
+			</node>
+			<node id="b64" parent_id="b0">
+				<name>Problems of adjustment to life-cycle transitions</name>
+			</node>
+			<node id="b65" parent_id="b0">
+				<name>Pica of infancy and childhood</name>
+			</node>
+			<node id="b66" parent_id="b0">
+				<name>Premenstrual tension syndrome</name>
+			</node>
+			<node id="b67" parent_id="b0">
+				<name>Military deployment status</name>
+			</node>
+			<node id="b68" parent_id="b0">
+				<name>Other specified problems related to psychosocial circumstances</name>
+			</node>
+			<node id="b69" parent_id="b0">
+				<name>Schizotypal disorder</name>
+			</node>
+			<node id="b70" parent_id="b0">
+				<name>Rumination disorder of infancy</name>
+			</node>
+			<node id="b71" parent_id="b0">
+				<name>Schizoaffective disorder bipolar type</name>
+			</node>
+			<node id="b72" parent_id="b0">
+				<name>Schizoaffective disorder depressive type</name>
+			</node>
+			<node id="b73" parent_id="b0">
+				<name>Schizoid personality disorder</name>
+			</node>
+			<node id="b74" parent_id="b0">
+				<name>Schizophrenia</name>
+			</node>
+			<node id="b75" parent_id="b0">
+				<name>Schizophreniform disorder</name>
+			</node>
+			<node id="b76" parent_id="b0">
+				<name>Other developmental disorders of speech and language</name>
+			</node>
+			<node id="b77" parent_id="b0">
+				<name>Social phobia</name>
+			</node>
+			<node id="b78" parent_id="b0">
+				<name>Sex counseling</name>
+			</node>
+			<node id="b79" parent_id="b0">
+				<name>Sibling rivalry</name>
+			</node>
+			<node id="b80" parent_id="b0">
+				<name>Stereotyped movement disorders</name>
+			</node>
+			<node id="b81" parent_id="b0">
+				<name>Drug induced subacute dyskinesia</name>
+			</node>
+			<node id="b82" parent_id="b0">
+				<name>Other drug induced dystonia</name>
+			</node>
+			<node id="b83" parent_id="b0">
+				<name>Tourette's disorder</name>
+			</node>
+			<node id="b84" parent_id="b0">
+				<name>Trichotillomania</name>
+			</node>
+			<node id="b85" parent_id="b0">
+				<name>Victim of crime and terrorism</name>
+			</node>
+			<node id="b86" parent_id="b0">
+				<name>Wandering in diseases classified elsewhere</name>
+			</node>
+			<node id="b87" parent_id="b0">
+				<name>Problems related to education and literacy</name>
+			</node>
+			<node id="b88" parent_id="b0">
+				<name>Acculturation difficulty</name>
+			</node>
+			<node id="b89" parent_id="b0">
+				<name>Adjustment disorder</name>
+			</node>
+			<node id="b90" parent_id="b0">
+				<name>Adjustment disorder with anxiety</name>
+			</node>
+			<node id="b91" parent_id="b0">
+				<name>Anorexia nervosa binge eating/purging type</name>
+			</node>
+			<node id="b92" parent_id="b0">
+				<name>Anorexia nervosa restricting type</name>
+			</node>
+			<node id="b93" parent_id="b0">
+				<name>Adverse effect of unspecified antidepressants initial encounter</name>
+			</node>
+			<node id="b94" parent_id="b0">
+				<name>Adverse effect of unspecified antidepressants sequela</name>
+			</node>
+			<node id="b95" parent_id="b0">
+				<name>Adverse effect of unspecified antidepressants subsequent encounter</name>
+			</node>
+			<node id="b96" parent_id="b0">
+				<name>Antisocial personality disorder</name>
+			</node>
+			<node id="b97" parent_id="b0">
+				<name>Anxiety disorder due to known physiological condition</name>
+			</node>
+			<node id="b98" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder combined type</name>
+			</node>
+			<node id="b99" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder predominantly hyperactive type</name>
+			</node>
+			<node id="b100" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder predominantly inattentive type</name>
+			</node>
+			<node id="b101" parent_id="b0">
+				<name>Narcolepsy without cataplexy</name>
+			</node>
+			<node id="b102" parent_id="b0">
+				<name>Avoidant personality disorder</name>
+			</node>
+			<node id="b103" parent_id="b0">
+				<name>Avoidant/restrictive food intake disorder</name>
+			</node>
+			<node id="b104" parent_id="b0">
+				<name>Binge eating disorder</name>
+			</node>
+			<node id="b105" parent_id="b0">
+				<name>Bipolar II disorder</name>
+			</node>
+			<node id="b106" parent_id="b0">
+				<name>Body dysmorphic disorder</name>
+			</node>
+			<node id="b107" parent_id="b0">
+				<name>Borderline intellectual functioning</name>
+			</node>
+			<node id="b108" parent_id="b0">
+				<name>Borderline personality disorder</name>
+			</node>
+			<node id="b109" parent_id="b0">
+				<name>Brief psychotic disorder</name>
+			</node>
+			<node id="b110" parent_id="b0">
+				<name>Bulimia nervosa</name>
+			</node>
+			<node id="b111" parent_id="b0">
+				<name>Catatonic disorder due to known physiological condition</name>
+			</node>
+			<node id="b112" parent_id="b0">
+				<name>Central sleep apnea in conditions classified elsewhere</name>
+			</node>
+			<node id="b113" parent_id="b0">
+				<name>Other specified problems related to upbringing</name>
+			</node>
+			<node id="b114" parent_id="b0">
+				<name>Childhood onset fluency disorder</name>
+			</node>
+			<node id="b115" parent_id="b0">
+				<name>Cyclothymic disorder</name>
+			</node>
+			<node id="b116" parent_id="b0">
+				<name>Delirium due to known physiological condition</name>
+			</node>
+			<node id="b117" parent_id="b0">
+				<name>Delusional disorders</name>
+			</node>
+			<node id="b118" parent_id="b0">
+				<name>Dependent personality disorder</name>
+			</node>
+			<node id="b119" parent_id="b0">
+				<name>Depersonalization-derealization syndrome</name>
+			</node>
+			<node id="b120" parent_id="b0">
+				<name>Dissociative amnesia</name>
+			</node>
+			<node id="b121" parent_id="b0">
+				<name>Dissociative fugue</name>
+			</node>
+			<node id="b122" parent_id="b0">
+				<name>Dissociative identity disorder</name>
+			</node>
+			<node id="b123" parent_id="b0">
+				<name>Exposure to disaster war and other hostilities</name>
+			</node>
+			<node id="b124" parent_id="b0">
+				<name>Extreme poverty</name>
+			</node>
+			<node id="b125" parent_id="b0">
+				<name>Factitious disorder</name>
+			</node>
+			<node id="b126" parent_id="b0">
+				<name>Female orgasmic disorder</name>
+			</node>
+			<node id="b127" parent_id="b0">
+				<name>Female sexual arousal disorder</name>
+			</node>
+			<node id="b128" parent_id="b0">
+				<name>Dual role transvestism</name>
+			</node>
+			<node id="b129" parent_id="b0">
+				<name>Gender identity disorder of childhood</name>
+			</node>
+			<node id="b130" parent_id="b0">
+				<name>Generalized anxiety disorder</name>
+			</node>
+			<node id="b131" parent_id="b0">
+				<name>Other specified problems related to primary support group</name>
+			</node>
+			<node id="b132" parent_id="b0">
+				<name>Histrionic personality disorder</name>
+			</node>
+			<node id="b133" parent_id="b0">
+				<name>Hoarding disorder</name>
+			</node>
+			<node id="b134" parent_id="b0">
+				<name>Homelessness</name>
+			</node>
+			<node id="b135" parent_id="b0">
+				<name>Degenerative disease of nervous system</name>
+			</node>
+			<node id="b136" parent_id="b0">
+				<name>Dementia in other diseases classified elsewhere with behavioral disturbance</name>
+			</node>
+			<node id="b137" parent_id="b0">
+				<name>Dementia in other diseases classified elsewhere without behavioral disturbance</name>
+			</node>
+			<node id="b138" parent_id="b0">
+				<name>Vascular dementia with behavioral disturbance</name>
+			</node>
+			<node id="b139" parent_id="b0">
+				<name>Mild cognitive impairment so stated</name>
+			</node>
+			<node id="b140" parent_id="b0">
+				<name>Narcissistic personality disorder</name>
+			</node>
+			<node id="b141" parent_id="b0">
+				<name>Narcolepsy with cataplexy</name>
+			</node>
+			<node id="b142" parent_id="b0">
+				<name>Malignant neuroleptic syndrome</name>
+			</node>
+			<node id="b143" parent_id="b0">
+				<name>Nightmare disorder</name>
+			</node>
+			<node id="b144" parent_id="b0">
+				<name>Encounter for observation for other suspected diseases and conditions ruled out</name>
+			</node>
+			<node id="b145" parent_id="b0">
+				<name>Sleep terrors</name>
+			</node>
+			<node id="b146" parent_id="b0">
+				<name>Sleepwalking</name>
+			</node>
+			<node id="b147" parent_id="b0">
+				<name>Patient's noncompliance with other medical treatment and regimen</name>
+			</node>
+			<node id="b148" parent_id="b0">
+				<name>Other specified mental disorders due to known physiological condition</name>
+			</node>
+			<node id="b149" parent_id="b0">
+				<name>Obsessive-compulsive disorder</name>
+			</node>
+			<node id="b150" parent_id="b0">
+				<name>Obsessive-compulsive personality disorder</name>
+			</node>
+			<node id="b151" parent_id="b0">
+				<name>Obesity</name>
+			</node>
+			<node id="b152" parent_id="b0">
+				<name>Chronic motor or vocal tic disorder</name>
+			</node>
+			<node id="b153" parent_id="b0">
+				<name>Post-traumatic stress disorder</name>
+			</node>
+			<node id="b154" parent_id="b0">
+				<name>Problem related to lifestyle</name>
+			</node>
+			<node id="b155" parent_id="b0">
+				<name>Problems related to living alone</name>
+			</node>
+			<node id="b156" parent_id="b0">
+				<name>Problems related to living in residential institution</name>
+			</node>
+			<node id="b157" parent_id="b0">
+				<name>Problems related to multiparity</name>
+			</node>
+			<node id="b158" parent_id="b0">
+				<name>Problems related to other legal circumstances</name>
+			</node>
+			<node id="b159" parent_id="b0">
+				<name>Problems related to release from prison</name>
+			</node>
+			<node id="b160" parent_id="b0">
+				<name>Problems related to unwanted pregnancy</name>
+			</node>
+			<node id="b161" parent_id="b0">
+				<name>Pyromania</name>
+			</node>
+			<node id="b162" parent_id="b0">
+				<name>Reactive attachment disorder of childhood</name>
+			</node>
+			<node id="b163" parent_id="b0">
+				<name>Selective mutism</name>
+			</node>
+			<node id="b164" parent_id="b0">
+				<name>Separation anxiety disorder of childhood</name>
+			</node>
+			<node id="b165" parent_id="b0">
+				<name>Social exclusion and rejection</name>
+			</node>
+			<node id="b166" parent_id="b0">
+				<name>Other animal type phobia</name>
+			</node>
+			<node id="b167" parent_id="b0">
+				<name>Fear of blood</name>
+			</node>
+			<node id="b168" parent_id="b0">
+				<name>Fear of injections and transfusions</name>
+			</node>
+			<node id="b169" parent_id="b0">
+				<name>Fear of injury</name>
+			</node>
+			<node id="b170" parent_id="b0">
+				<name>Fear of other medical care</name>
+			</node>
+			<node id="b171" parent_id="b0">
+				<name>Other natural environment type phobia</name>
+			</node>
+			<node id="b172" parent_id="b0">
+				<name>Other specified phobia</name>
+			</node>
+			<node id="b173" parent_id="b0">
+				<name>Other situational type phobia</name>
+			</node>
+			<node id="b174" parent_id="b0">
+				<name>Phonological disorder</name>
+			</node>
+			<node id="b175" parent_id="b0">
+				<name>Tobacco use</name>
+			</node>
+			<node id="b176" parent_id="b0">
+				<name>Nicotine dependence unspecified uncomplicated</name>
+			</node>
+			<node id="b177" parent_id="b0">
+				<name>Nicotine dependence unspecified with withdrawal</name>
+			</node>
+		</children>
+	</node>
+</context>

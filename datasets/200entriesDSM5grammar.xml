@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<context>
+	<node id="a0">
+		<name>Top</name>
+		<children>
+			<node id="a1" parent_id="a0">
+				<name>Medication-induced postural tremor</name>
+			</node>
+			<node id="a2" parent_id="a0">
+				<name>Medication-induced acute akathisia</name>
+			</node>
+			<node id="a3" parent_id="a0">
+				<name>Obstructive sleep apnea hypopnea</name>
+			</node>
+			<node id="a4" parent_id="a0">
+				<name>Medication-induced acute dystonia</name>
+			</node>
+			<node id="a5" parent_id="a0">
+				<name>Delayed ejaculation</name>
+			</node>
+			<node id="a6" parent_id="a0">
+				<name>Premature ejaculation</name>
+			</node>
+			<node id="a7" parent_id="a0">
+				<name>Other specified bipolar and related disorder</name>
+			</node>
+			<node id="a8" parent_id="a0">
+				<name>Unspecified bipolar and related disorder</name>
+			</node>
+			<node id="a9" parent_id="a0">
+				<name>Circadian rhythm sleep-wake disorders</name>
+			</node>
+			<node id="a10" parent_id="a0">
+				<name>Circadian rhythm sleep-wake disorders Delayed sleep phase type</name>
+			</node>
+			<node id="a11" parent_id="a0">
+				<name>Circadian rhythm sleep-wake disorders Advanced sleep phase type</name>
+			</node>
+			<node id="a12" parent_id="a0">
+				<name>Circadian rhythm sleep-wake disorders Irregular sleep-wake type</name>
+			</node>
+			<node id="a13" parent_id="a0">
+				<name>Circadian rhythm sleep-wake disorders Non-24-hour sleep-wake type</name>
+			</node>
+			<node id="a14" parent_id="a0">
+				<name>Circadian rhythm sleep-wake disorders Shift work type</name>
+			</node>
+			<node id="a15" parent_id="a0">
+				<name>Idiopathic central sleep apnea</name>
+			</node>
+			<node id="a16" parent_id="a0">
+				<name>Rapid eye movement sleep behavior disorder</name>
+			</node>
+			<node id="a17" parent_id="a0">
+				<name>Other specified sleep-wake disorder</name>
+			</node>
+			<node id="a18" parent_id="a0">
+				<name>Unspecified sleep-wake disorder</name>
+			</node>
+			<node id="a19" parent_id="a0">
+				<name>Neuroleptic-induced parkinsonism</name>
+			</node>
+			<node id="a20" parent_id="a0">
+				<name>Other medication-induced parkinsonism</name>
+			</node>
+			<node id="a21" parent_id="a0">
+				<name>Amphetamine or other stimulant withdrawal</name>
+			</node>
+			<node id="a22" parent_id="a0">
+				<name>Cheyne-Stokes breathing</name>
+			</node>
+			<node id="a23" parent_id="a0">
+				<name>Provisional tic disorder</name>
+			</node>
+			<node id="a24" parent_id="a0">
+				<name>Illness anxiety disorder</name>
+			</node>
+			<node id="a25" parent_id="a0">
+				<name>Pica In adults</name>
+			</node>
+			<node id="a26" parent_id="a0">
+				<name>Other specified gender dysphoria</name>
+			</node>
+			<node id="a27" parent_id="a0">
+				<name>Gambling disorder</name>
+			</node>
+			<node id="a28" parent_id="a0">
+				<name>Other problem related to employment</name>
+			</node>
+			<node id="a29" parent_id="a0">
+				<name>Persistent depressive disorder</name>
+			</node>
+			<node id="a30" parent_id="a0">
+				<name>Somatic symptom disorder</name>
+			</node>
+			<node id="a31" parent_id="a0">
+				<name>Fetishistic disorder</name>
+			</node>
+			<node id="a32" parent_id="a0">
+				<name>Transvestic disorder</name>
+			</node>
+			<node id="a33" parent_id="a0">
+				<name>Exhibitionistic disorder</name>
+			</node>
+			<node id="a34" parent_id="a0">
+				<name>Voyeuristic disorder</name>
+			</node>
+			<node id="a35" parent_id="a0">
+				<name>Pedophilic disorder</name>
+			</node>
+			<node id="a36" parent_id="a0">
+				<name>Sexual masochism disorder</name>
+			</node>
+			<node id="a37" parent_id="a0">
+				<name>Sexual sadism disorder</name>
+			</node>
+			<node id="a38" parent_id="a0">
+				<name>Frotteuristic disorder</name>
+			</node>
+			<node id="a39" parent_id="a0">
+				<name>Autism spectrum disorder</name>
+			</node>
+			<node id="a40" parent_id="a0">
+				<name>Acute stress disorder</name>
+			</node>
+			<node id="a41" parent_id="a0">
+				<name>Discord with neighbor lodger or landlord</name>
+			</node>
+			<node id="a42" parent_id="a0">
+				<name>Discord with social service provider including probation officer case manager or social services worker</name>
+			</node>
+			<node id="a43" parent_id="a0">
+				<name>Encopresis</name>
+			</node>
+			<node id="a44" parent_id="a0">
+				<name>Enuresis</name>
+			</node>
+			<node id="a45" parent_id="a0">
+				<name>Erectile disorder</name>
+			</node>
+			<node id="a46" parent_id="a0">
+				<name>Genito-pelvic pain/penetration disorder</name>
+			</node>
+			<node id="a47" parent_id="a0">
+				<name>Global developmental delay</name>
+			</node>
+			<node id="a48" parent_id="a0">
+				<name>Hallucinogen persisting perception disorder</name>
+			</node>
+			<node id="a49" parent_id="a0">
+				<name>Excoriation disorder</name>
+			</node>
+			<node id="a50" parent_id="a0">
+				<name>Hypersomnolence disorder</name>
+			</node>
+			<node id="a51" parent_id="a0">
+				<name>Idiopathic hypoventilation</name>
+			</node>
+			<node id="a52" parent_id="a0">
+				<name>Language disorder</name>
+			</node>
+			<node id="a53" parent_id="a0">
+				<name>Kleptomania</name>
+			</node>
+			<node id="a54" parent_id="a0">
+				<name>Male hypoactive sexual desire disorder</name>
+			</node>
+			<node id="a55" parent_id="a0">
+				<name>Malingering</name>
+			</node>
+			<node id="a56" parent_id="a0">
+				<name>Other specified delirium</name>
+			</node>
+			<node id="a57" parent_id="a0">
+				<name>Other specified feeding or eating disorder</name>
+			</node>
+			<node id="a58" parent_id="a0">
+				<name>Other specified hypersomnolence disorder</name>
+			</node>
+			<node id="a59" parent_id="a0">
+				<name>Other specified insomnia disorder</name>
+			</node>
+			<node id="a60" parent_id="a0">
+				<name>Other specified disruptive impulse-control and conduct disorder</name>
+			</node>
+			<node id="a61" parent_id="a0">
+				<name>Panic disorder</name>
+			</node>
+			<node id="a62" parent_id="a0">
+				<name>Paranoid personality disorder</name>
+			</node>
+			<node id="a63" parent_id="a0">
+				<name>Parent-child relational problem</name>
+			</node>
+			<node id="a64" parent_id="a0">
+				<name>Other specified trauma- and stressor-related disorder</name>
+			</node>
+			<node id="a65" parent_id="a0">
+				<name>Phase of life problem</name>
+			</node>
+			<node id="a66" parent_id="a0">
+				<name>Pica In children</name>
+			</node>
+			<node id="a67" parent_id="a0">
+				<name>Premenstrual dysphoric disorder</name>
+			</node>
+			<node id="a68" parent_id="a0">
+				<name>Problem related to current military deployment status</name>
+			</node>
+			<node id="a69" parent_id="a0">
+				<name>Religious or spiritual problem</name>
+			</node>
+			<node id="a70" parent_id="a0">
+				<name>Schizotypal personality disorder</name>
+			</node>
+			<node id="a71" parent_id="a0">
+				<name>Rumination disorder</name>
+			</node>
+			<node id="a72" parent_id="a0">
+				<name>Schizoaffective disorder Bipolar type</name>
+			</node>
+			<node id="a73" parent_id="a0">
+				<name>Schizoaffective disorder Depressive type</name>
+			</node>
+			<node id="a74" parent_id="a0">
+				<name>Schizoid personality disorder</name>
+			</node>
+			<node id="a75" parent_id="a0">
+				<name>Schizophrenia</name>
+			</node>
+			<node id="a76" parent_id="a0">
+				<name>Schizophreniform disorder</name>
+			</node>
+			<node id="a77" parent_id="a0">
+				<name>Social communication disorder</name>
+			</node>
+			<node id="a78" parent_id="a0">
+				<name>Social anxiety disorder</name>
+			</node>
+			<node id="a79" parent_id="a0">
+				<name>Sex counseling</name>
+			</node>
+			<node id="a80" parent_id="a0">
+				<name>Sibling relational problem</name>
+			</node>
+			<node id="a81" parent_id="a0">
+				<name>Stereotypic movement disorder</name>
+			</node>
+			<node id="a82" parent_id="a0">
+				<name>Tardive akathisia</name>
+			</node>
+			<node id="a83" parent_id="a0">
+				<name>Tardive dyskinesia</name>
+			</node>
+			<node id="a84" parent_id="a0">
+				<name>Tardive dystonia</name>
+			</node>
+			<node id="a85" parent_id="a0">
+				<name>Tourette's disorder</name>
+			</node>
+			<node id="a86" parent_id="a0">
+				<name>Trichotillomania</name>
+			</node>
+			<node id="a87" parent_id="a0">
+				<name>Victim of crime</name>
+			</node>
+			<node id="a88" parent_id="a0">
+				<name>Victim of terrorism or torture</name>
+			</node>
+			<node id="a89" parent_id="a0">
+				<name>Wandering associated with a mental disorder</name>
+			</node>
+			<node id="a90" parent_id="a0">
+				<name>Academic or educational problem</name>
+			</node>
+			<node id="a91" parent_id="a0">
+				<name>Acculturation difficulty</name>
+			</node>
+			<node id="a92" parent_id="a0">
+				<name>Adjustment disorder</name>
+			</node>
+			<node id="a93" parent_id="a0">
+				<name>Adjustment disorder With anxiety</name>
+			</node>
+			<node id="a94" parent_id="a0">
+				<name>Anorexia nervosa Binge-eating/purging type</name>
+			</node>
+			<node id="a95" parent_id="a0">
+				<name>Anorexia nervosa Restricting type</name>
+			</node>
+			<node id="a96" parent_id="a0">
+				<name>Antidepressant discontinuation syndrome Initial encounter</name>
+			</node>
+			<node id="a97" parent_id="a0">
+				<name>Antidepressant discontinuation syndrome Sequelae</name>
+			</node>
+			<node id="a98" parent_id="a0">
+				<name>Antidepressant discontinuation syndrome Subsequent encounter</name>
+			</node>
+			<node id="a99" parent_id="a0">
+				<name>Antisocial personality disorder</name>
+			</node>
+			<node id="a100" parent_id="a0">
+				<name>Anxiety disorder due to another medical condition</name>
+			</node>
+			<node id="a101" parent_id="a0">
+				<name>Attention-deficit/hyperactivity disorder Combined presentation</name>
+			</node>
+			<node id="a102" parent_id="a0">
+				<name>Attention-deficit/hyperactivity disorder Predominantly hyperactive/impulsive presentation</name>
+			</node>
+			<node id="a103" parent_id="a0">
+				<name>Attention-deficit/hyperactivity disorder Predominantly inattentive presentation</name>
+			</node>
+			<node id="a104" parent_id="a0">
+				<name>Autosomal dominant cerebellar ataxia deafness and narcolepsy</name>
+			</node>
+			<node id="a105" parent_id="a0">
+				<name>Autosomal dominant narcolepsy obesity and type 2 diabetes</name>
+			</node>
+			<node id="a106" parent_id="a0">
+				<name>Avoidant personality disorder</name>
+			</node>
+			<node id="a107" parent_id="a0">
+				<name>Avoidant/restrictive food intake disorder</name>
+			</node>
+			<node id="a108" parent_id="a0">
+				<name>Binge-eating disorder</name>
+			</node>
+			<node id="a109" parent_id="a0">
+				<name>Bipolar I disorder Current or most recent episode unspecified</name>
+			</node>
+			<node id="a110" parent_id="a0">
+				<name>Bipolar II disorder</name>
+			</node>
+			<node id="a111" parent_id="a0">
+				<name>Body dysmorphic disorder</name>
+			</node>
+			<node id="a112" parent_id="a0">
+				<name>Borderline intellectual functioning</name>
+			</node>
+			<node id="a113" parent_id="a0">
+				<name>Borderline personality disorder</name>
+			</node>
+			<node id="a114" parent_id="a0">
+				<name>Brief psychotic disorder</name>
+			</node>
+			<node id="a115" parent_id="a0">
+				<name>Bulimia nervosa</name>
+			</node>
+			<node id="a116" parent_id="a0">
+				<name>Catatonic disorder due to another medical condition</name>
+			</node>
+			<node id="a117" parent_id="a0">
+				<name>Central sleep apnea comorbid with opioid use</name>
+			</node>
+			<node id="a118" parent_id="a0">
+				<name>Child affected by parental relationship distress</name>
+			</node>
+			<node id="a119" parent_id="a0">
+				<name>Childhood-onset fluency disorder</name>
+			</node>
+			<node id="a120" parent_id="a0">
+				<name>Cyclothymic disorder</name>
+			</node>
+			<node id="a121" parent_id="a0">
+				<name>Delirium due to another medical condition</name>
+			</node>
+			<node id="a122" parent_id="a0">
+				<name>Delirium due to multiple etiologies</name>
+			</node>
+			<node id="a123" parent_id="a0">
+				<name>Delusional disorder</name>
+			</node>
+			<node id="a124" parent_id="a0">
+				<name>Dependent personality disorder</name>
+			</node>
+			<node id="a125" parent_id="a0">
+				<name>Depersonalization/derealization disorder</name>
+			</node>
+			<node id="a126" parent_id="a0">
+				<name>Dissociative amnesia</name>
+			</node>
+			<node id="a127" parent_id="a0">
+				<name>Dissociative amnesia with dissociative fugue</name>
+			</node>
+			<node id="a128" parent_id="a0">
+				<name>Dissociative identity disorder</name>
+			</node>
+			<node id="a129" parent_id="a0">
+				<name>Exposure to disaster war or other hostilities</name>
+			</node>
+			<node id="a130" parent_id="a0">
+				<name>Extreme poverty</name>
+			</node>
+			<node id="a131" parent_id="a0">
+				<name>Factitious disorder</name>
+			</node>
+			<node id="a132" parent_id="a0">
+				<name>Female orgasmic disorder</name>
+			</node>
+			<node id="a133" parent_id="a0">
+				<name>Female sexual interest/arousal disorder</name>
+			</node>
+			<node id="a134" parent_id="a0">
+				<name>Gender dysphoria in adolescents and adults</name>
+			</node>
+			<node id="a135" parent_id="a0">
+				<name>Gender dysphoria in children</name>
+			</node>
+			<node id="a136" parent_id="a0">
+				<name>Generalized anxiety disorder</name>
+			</node>
+			<node id="a137" parent_id="a0">
+				<name>High expressed emotion level within family</name>
+			</node>
+			<node id="a138" parent_id="a0">
+				<name>Histrionic personality disorder</name>
+			</node>
+			<node id="a139" parent_id="a0">
+				<name>Hoarding disorder</name>
+			</node>
+			<node id="a140" parent_id="a0">
+				<name>Homelessness</name>
+			</node>
+			<node id="a141" parent_id="a0">
+				<name>Major frontotemporal neurocognitive disorder Possible</name>
+			</node>
+			<node id="a142" parent_id="a0">
+				<name>Major neurocognitive disorder due to another medical condition With behavioral disturbance</name>
+			</node>
+			<node id="a143" parent_id="a0">
+				<name>Major neurocognitive disorder due to another medical condition Without behavioral disturbance</name>
+			</node>
+			<node id="a144" parent_id="a0">
+				<name>Major neurocognitive disorder due to multiple etiologies With behavioral disturbance</name>
+			</node>
+			<node id="a145" parent_id="a0">
+				<name>Major neurocognitive disorder due to multiple etiologies Without behavioral disturbance</name>
+			</node>
+			<node id="a146" parent_id="a0">
+				<name>Major neurocognitive disorder due to Parkinson's disease Possible</name>
+			</node>
+			<node id="a147" parent_id="a0">
+				<name>Major neurocognitive disorder with Lewy bodies Possible</name>
+			</node>
+			<node id="a148" parent_id="a0">
+				<name>Major vascular neurocognitive disorder Possible</name>
+			</node>
+			<node id="a149" parent_id="a0">
+				<name>Major vascular neurocognitive disorder Probable With behavioral disturbance</name>
+			</node>
+			<node id="a150" parent_id="a0">
+				<name>Mild frontotemporal neurocognitive disorder</name>
+			</node>
+			<node id="a151" parent_id="a0">
+				<name>Mild neurocognitive disorder due to Alzheimer's disease</name>
+			</node>
+			<node id="a152" parent_id="a0">
+				<name>Mild neurocognitive disorder due to another medical condition</name>
+			</node>
+			<node id="a153" parent_id="a0">
+				<name>Mild neurocognitive disorder due to HIV infection</name>
+			</node>
+			<node id="a154" parent_id="a0">
+				<name>Mild neurocognitive disorder due to Huntington's disease</name>
+			</node>
+			<node id="a155" parent_id="a0">
+				<name>Mild neurocognitive disorder due to multiple etiologies</name>
+			</node>
+			<node id="a156" parent_id="a0">
+				<name>Mild neurocognitive disorder due to Parkinson's disease</name>
+			</node>
+			<node id="a157" parent_id="a0">
+				<name>Mild neurocognitive disorder due to prion disease</name>
+			</node>
+			<node id="a158" parent_id="a0">
+				<name>Mild neurocognitive disorder due to traumatic brain injury</name>
+			</node>
+			<node id="a159" parent_id="a0">
+				<name>Mild neurocognitive disorder with Lewy bodies</name>
+			</node>
+			<node id="a160" parent_id="a0">
+				<name>Mild vascular neurocognitive disorder</name>
+			</node>
+			<node id="a161" parent_id="a0">
+				<name>Narcissistic personality disorder</name>
+			</node>
+			<node id="a162" parent_id="a0">
+				<name>Narcolepsy with cataplexy but without hypocretin deficiency</name>
+			</node>
+			<node id="a163" parent_id="a0">
+				<name>Narcolepsy without cataplexy but with hypocretin deficiency</name>
+			</node>
+			<node id="a164" parent_id="a0">
+				<name>Neuroleptic malignant syndrome</name>
+			</node>
+			<node id="a165" parent_id="a0">
+				<name>Nightmare disorder</name>
+			</node>
+			<node id="a166" parent_id="a0">
+				<name>No Diagnosis or Condition on Axis I / No Diagnosis on Axis II</name>
+			</node>
+			<node id="a167" parent_id="a0">
+				<name>Non-rapid eye movement sleep arousal disorders Sleep terror type</name>
+			</node>
+			<node id="a168" parent_id="a0">
+				<name>Non-rapid eye movement sleep arousal disorders Sleepwalking type</name>
+			</node>
+			<node id="a169" parent_id="a0">
+				<name>Nonadherence to medical treatment</name>
+			</node>
+			<node id="a170" parent_id="a0">
+				<name>Obsessive-compulsive and related disorder due to another medical condition</name>
+			</node>
+			<node id="a171" parent_id="a0">
+				<name>Obsessive-compulsive disorder</name>
+			</node>
+			<node id="a172" parent_id="a0">
+				<name>Obsessive-compulsive personality disorder</name>
+			</node>
+			<node id="a173" parent_id="a0">
+				<name>Overweight or obesity</name>
+			</node>
+			<node id="a174" parent_id="a0">
+				<name>Persistent motor or vocal tic disorder</name>
+			</node>
+			<node id="a175" parent_id="a0">
+				<name>Posttraumatic stress disorder</name>
+			</node>
+			<node id="a176" parent_id="a0">
+				<name>Problem related to lifestyle</name>
+			</node>
+			<node id="a177" parent_id="a0">
+				<name>Problem related to living alone</name>
+			</node>
+			<node id="a178" parent_id="a0">
+				<name>Problem related to living in a residential institution</name>
+			</node>
+			<node id="a179" parent_id="a0">
+				<name>Problems related to multiparity</name>
+			</node>
+			<node id="a180" parent_id="a0">
+				<name>Problems related to other legal circumstances</name>
+			</node>
+			<node id="a181" parent_id="a0">
+				<name>Problems related to release from prison</name>
+			</node>
+			<node id="a182" parent_id="a0">
+				<name>Problems related to unwanted pregnancy</name>
+			</node>
+			<node id="a183" parent_id="a0">
+				<name>Pyromania</name>
+			</node>
+			<node id="a184" parent_id="a0">
+				<name>Reactive attachment disorder</name>
+			</node>
+			<node id="a185" parent_id="a0">
+				<name>Selective mutism</name>
+			</node>
+			<node id="a186" parent_id="a0">
+				<name>Separation anxiety disorder</name>
+			</node>
+			<node id="a187" parent_id="a0">
+				<name>Social exclusion or rejection</name>
+			</node>
+			<node id="a188" parent_id="a0">
+				<name>Specific phobia Animal</name>
+			</node>
+			<node id="a189" parent_id="a0">
+				<name>Specific phobia Fear of blood</name>
+			</node>
+			<node id="a190" parent_id="a0">
+				<name>Specific phobia Fear of injections and transfusions</name>
+			</node>
+			<node id="a191" parent_id="a0">
+				<name>Specific phobia Fear of injury</name>
+			</node>
+			<node id="a192" parent_id="a0">
+				<name>Specific phobia Fear of other medical care</name>
+			</node>
+			<node id="a193" parent_id="a0">
+				<name>Specific phobia Natural environment</name>
+			</node>
+			<node id="a194" parent_id="a0">
+				<name>Specific phobia Other</name>
+			</node>
+			<node id="a195" parent_id="a0">
+				<name>Specific phobia Situational</name>
+			</node>
+			<node id="a196" parent_id="a0">
+				<name>Speech sound disorder</name>
+			</node>
+			<node id="a197" parent_id="a0">
+				<name>Tobacco use disorder Mild</name>
+			</node>
+			<node id="a198" parent_id="a0">
+				<name>Tobacco use disorder Moderate</name>
+			</node>
+			<node id="a199" parent_id="a0">
+				<name>Tobacco use disorder Severe</name>
+			</node>
+			<node id="a200" parent_id="a0">
+				<name>Tobacco withdrawal</name>
+			</node>
+		</children>
+	</node>
+</context>
