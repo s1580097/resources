@@ -1,0 +1,2245 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+	 xml:base="http://www.semanticweb.org/francis/ontologies/2018/10/icd10Gabor"
+	 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	 ontologyIRI="http://www.semanticweb.org/francis/ontologies/2018/10/icd10Gabor">
+	<Prefix name="" IRI="http://www.semanticweb.org/francis/ontologies/2018/10/icd10Gabor#"/>
+	<Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+	<Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+	<Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+	<Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+	<Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+	<Declaration>
+		<Class IRI="#Overweight_or_obesity"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_vascular_neurocognitive_disorder_Probable_Without_behavioral_disturbance"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_vascular_neurocognitive_disorder_Probable_With_behavioral_disturbance"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_neurocognitive_disorder_due_to_another_medical_condition_Without_behavioral_disturbance"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_neurocognitive_disorder_due_to_multiple_etiologies_Without_behavioral_disturbance"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_neurocognitive_disorder_due_to_another_medical_condition_With_behavioral_disturbance"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_neurocognitive_disorder_due_to_multiple_etiologies_With_behavioral_disturbance"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Delirium_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Delirium_due_to_multiple_etiologies"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Psychotic_disorder_due_to_another_medical_condition_With_hallucinations"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Catatonia_associated_with_another_mental_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Catatonic_disorder_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Psychotic_disorder_due_to_another_medical_condition_With_delusions"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Depressive_disorder_due_to_another_medical_condition_With_depressive_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Depressive_disorder_due_to_another_medical_condition_With_major_depressive-like_episode"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_and_related_disorder_due_to_another_medical_condition_With_manic_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_and_related_disorder_due_to_another_medical_condition_With_manic-_or_hypomanic-like_episodes"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_and_related_disorder_due_to_another_medical_condition_With_mixed_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Depressive_disorder_due_to_another_medical_condition_With_mixed_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Anxiety_disorder_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Obsessive-compulsive_and_related_disorder_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_mental_disorder_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personality_change_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_mental_disorder_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_intoxication_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_sexual_dysfunction_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_intoxication_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_withdrawal_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_withdrawal_With_perceptual_disturbances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_withdrawal_Without_perceptual_disturbances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_major_neurocognitive_disorder_Amnestic_confabulatory_type_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_major_neurocognitive_disorder_Nonamnestic_confabulatory_type_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_sexual_dysfunction_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_mild_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol_intoxication_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_major_neurocognitive_disorder_Amnestic_confabulatory_type_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_major_neurocognitive_disorder_Nonamnestic_confabulatory_type_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_sexual_dysfunction_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Alcohol-induced_mild_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_alcohol-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_With_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_Without_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_sexual_dysfunction_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_With_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_Without_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_withdrawal_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_sexual_dysfunction_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_With_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid_intoxication_Without_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_sexual_dysfunction_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Opioid-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_opioid-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_With_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_Without_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_With_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_Without_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_With_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis_intoxication_Without_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cannabis-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_cannabis-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_intoxication_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_sexual_dysfunction_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_intoxication_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_withdrawal_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_withdrawal_With_perceptual_disturbances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_withdrawal_Without_perceptual_disturbances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_major_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_sexual_dysfunction_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_mild_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative_hypnotic_or_anxiolytic_intoxication_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_major_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_sexual_dysfunction_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sedative-_hypnotic-_or_anxiolytic-induced_mild_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_sedative-_hypnotic-_or_anxiolytic-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_With_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_Without_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_sexual_dysfunction_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_obsessive-compulsive_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_With_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_Without_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_sexual_dysfunction_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_obsessive-compulsive_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_With_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine_intoxication_Without_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_sexual_dysfunction_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cocaine-induced_obsessive-compulsive_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_cocaine-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-type_substance_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_or_unspecified_stimulant_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_intoxication_With_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_intoxication_Without_perceptual_disturbances_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_sexual_dysfunction_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_obsessive-compulsive_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-type_substance_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-type_substance_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_or_unspecified_stimulant_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_or_unspecified_stimulant_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_intoxication_With_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_intoxication_Without_perceptual_disturbances_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_sexual_dysfunction_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_obsessive-compulsive_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_intoxication_With_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine_or_other_stimulant_intoxication_Without_perceptual_disturbances_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine_intoxication"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_sexual_dysfunction_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Caffeine-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Amphetamine-induced_obsessive-compulsive_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_amphetamine_or_other_stimulant-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_caffeine-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_intoxication_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_intoxication_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_intoxication_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_intoxication_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen_intoxication_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine_intoxication_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_hallucinogen-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phencyclidine-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Hallucinogen_persisting_perception_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_hallucinogen-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_phencyclidine-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tobacco_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tobacco_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tobacco_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tobacco-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_tobacco-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_intoxication_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_major_neurocognitive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_mild_neurocognitive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_intoxication_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_major_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_mild_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant_intoxication_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_major_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inhalant-induced_mild_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_inhalant-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_intoxication_delirium_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_intoxication_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_bipolar_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_depressive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_psychotic_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_major_neurocognitive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_anxiety_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_sexual_dysfunction_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_sleep_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_mild_neurocognitive_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_obsessive-compulsive_and_related_disorder_With_mild_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_use_disorder_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_use_disorder_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_intoxication_delirium_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_intoxication_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_withdrawal_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_withdrawal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_bipolar_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_depressive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_psychotic_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_major_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_anxiety_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_sexual_dysfunction_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_sleep_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_mild_neurocognitive_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_obsessive-compulsive_and_related_disorder_With_moderate_or_severe_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_intoxication_delirium_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance_intoxication_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_bipolar_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_depressive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_psychotic_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_major_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_anxiety_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_sexual_dysfunction_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_sleep_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_mild_neurocognitive_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_substance-induced_obsessive-compulsive_and_related_disorder_Without_use_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_other_substance-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Schizophreniform_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Schizophrenia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Schizotypal_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Delusional_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Brief_psychotic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Schizoaffective_disorder_Bipolar_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Schizoaffective_disorder_Depressive_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_schizophrenia_spectrum_and_other_psychotic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_schizophrenia_spectrum_and_other_psychotic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_hypomanic"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic_With_psychotic_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed_With_psychotic_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_hypomanic_In_partial_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic_In_partial_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_hypomanic_In_full_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic_In_full_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed_In_partial_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed_In_full_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_II_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_bipolar_and_related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_depressed"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_hypomanic"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_manic"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bipolar_I_disorder_Current_or_most_recent_episode_unspecified"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_bipolar_and_related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode_With_psychotic_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode_In_partial_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode_In_full_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_depressive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Single_episode"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_depressive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode_With_psychotic_features"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode_In_partial_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode_In_full_remission"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_depressive_disorder_Recurrent_episode"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cyclothymic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Persistent_depressive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Disruptive_mood_dysregulation_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Agoraphobia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Social_anxiety_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Animal"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Natural_environment"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Fear_of_blood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Fear_of_injections_and_transfusions"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Fear_of_other_medical_care"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Fear_of_injury"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Situational"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_phobia_Other"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Panic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Generalized_anxiety_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_anxiety_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_anxiety_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Hoarding_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Obsessive-compulsive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_obsessive-compulsive_and_related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_obsessive-compulsive_and_related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Acute_stress_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Posttraumatic_stress_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adjustment_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adjustment_disorder_With_depressed_mood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adjustment_disorder_With_anxiety"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adjustment_disorder_With_mixed_anxiety_and_depressed_mood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adjustment_disorder_With_disturbance_of_conduct"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adjustment_disorder_With_mixed_disturbance_of_emotions_and_conduct"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_trauma-_and_stressor-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_trauma-_and_stressor-related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Dissociative_amnesia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Dissociative_amnesia_with_dissociative_fugue"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_abnormal_movement"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_speech_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_swallowing_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_weakness/paralysis"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_attacks_or_seizures"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_anesthesia_or_sensory_loss"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_special_sensory_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conversion_disorder_With_mixed_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Dissociative_identity_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_dissociative_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_dissociative_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Somatic_symptom_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Illness_anxiety_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Body_dysmorphic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_somatic_symptom_and_related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_somatic_symptom_and_related_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Depersonalization/derealization_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Anorexia_nervosa_Restricting_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Anorexia_nervosa_Binge-eating/purging_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Bulimia_nervosa"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Avoidant/restrictive_food_intake_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Binge-eating_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_feeding_or_eating_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Pica_In_adults"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_feeding_or_eating_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Non-rapid_eye_movement_sleep_arousal_disorders_Sleepwalking_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Non-rapid_eye_movement_sleep_arousal_disorders_Sleep_terror_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Nightmare_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Male_hypoactive_sexual_desire_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Erectile_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Female_sexual_interest/arousal_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Female_orgasmic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Delayed_ejaculation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Premature_ejaculation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Genito-pelvic_pain/penetration_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_sexual_dysfunction"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_sexual_dysfunction"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Psychological_factors_affecting_other_medical_conditions"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Paranoid_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Schizoid_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Antisocial_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Borderline_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Histrionic_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Obsessive-compulsive_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Avoidant_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Dependent_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Narcissistic_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_personality_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Gambling_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Pyromania"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Kleptomania"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Trichotillomania"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Intermittent_explosive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Gender_dysphoria_in_adolescents_and_adults"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Gender_dysphoria_in_children"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_gender_dysphoria"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_gender_dysphoria"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Fetishistic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Transvestic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Exhibitionistic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Voyeuristic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Pedophilic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sexual_masochism_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sexual_sadism_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Frotteuristic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_paraphilic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_paraphilic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Factitious_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Intellectual_disability_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Intellectual_disability_Moderate"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Intellectual_disability_Severe"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Intellectual_disability_Profound"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_intellectual_disability"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Speech_sound_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Childhood-onset_fluency_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Social_communication_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Language_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_communication_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_learning_disorder_With_impairment_in_reading"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_learning_disorder_With_impairment_in_mathematics"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Specific_learning_disorder_With_impairment_in_written_expression"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Developmental_coordination_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Autism_spectrum_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Global_developmental_delay"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_neurodevelopmental_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_neurodevelopmental_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Attention-deficit/hyperactivity_disorder_Predominantly_inattentive_presentation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Attention-deficit/hyperactivity_disorder_Predominantly_hyperactive/impulsive_presentation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Attention-deficit/hyperactivity_disorder_Combined_presentation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_attention-deficit/hyperactivity_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_attention-deficit/hyperactivity_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conduct_disorder_Childhood-onset_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conduct_disorder_Adolescent-onset_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Oppositional_defiant_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_disruptive_impulse-control_and_conduct_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conduct_disorder_onset"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_disruptive_impulse-control_and_conduct_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Separation_anxiety_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Selective_mutism"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Reactive_attachment_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Disinhibited_social_engagement_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Provisional_tic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Persistent_motor_or_vocal_tic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tourette's_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_tic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_tic_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Enuresis"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Encopresis"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Rumination_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Pica_In_children"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Stereotypic_movement_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult-onset_fluency_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_mental_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_mental_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Neuroleptic_malignant_syndrome"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Neuroleptic-induced_parkinsonism"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_medication-induced_parkinsonism"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tardive_dyskinesia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Medication-induced_acute_dystonia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tardive_dystonia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Medication-induced_postural_tremor"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Medication-induced_acute_akathisia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tardive_akathisia"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_medication-induced_movement_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Restless_legs_syndrome"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_frontotemporal_neurocognitive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_Alzheimer's_disease"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_HIV_infection"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_Huntington's_disease"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_multiple_etiologies"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_Parkinson's_disease"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_prion_disease"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_due_to_traumatic_brain_injury"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_neurocognitive_disorder_with_Lewy_bodies"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Mild_vascular_neurocognitive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_frontotemporal_neurocognitive_disorder_Possible"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_neurocognitive_disorder_due_to_Parkinson's_disease_Possible"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_neurocognitive_disorder_with_Lewy_bodies_Possible"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Major_vascular_neurocognitive_disorder_Possible"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Insomnia_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_insomnia_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_insomnia_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Hypersomnolence_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_hypersomnolence_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_hypersomnolence_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Circadian_rhythm_sleep-wake_disorders_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Circadian_rhythm_sleep-wake_disorders_Delayed_sleep_phase_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Circadian_rhythm_sleep-wake_disorders_Advanced_sleep_phase_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Circadian_rhythm_sleep-wake_disorders_Irregular_sleep-wake_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Circadian_rhythm_sleep-wake_disorders_Non-24-hour_sleep-wake_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Circadian_rhythm_sleep-wake_disorders_Shift_work_type"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Idiopathic_central_sleep_apnea"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Obstructive_sleep_apnea_hypopnea"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Idiopathic_hypoventilation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Congenital_central_alveolar_hypoventilation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Comorbid_sleep-related_hypoventilation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Central_sleep_apnea_comorbid_with_opioid_use"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Narcolepsy_with_cataplexy_but_without_hypocretin_deficiency"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Autosomal_dominant_cerebellar_ataxia_deafness_and_narcolepsy"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Autosomal_dominant_narcolepsy_obesity_and_type_2_diabetes"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Narcolepsy_without_cataplexy_but_with_hypocretin_deficiency"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Narcolepsy_secondary_to_another_medical_condition"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Rapid_eye_movement_sleep_behavior_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_sleep-wake_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_sleep-wake_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Excoriation_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_elimination_disorder_With_urinary_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Premenstrual_dysphoric_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Cheyne-Stokes_breathing"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_elimination_disorder_With_fecal_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_elimination_disorder_With_fecal_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_elimination_disorder_With_urinary_symptoms"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_specified_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_delirium"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Borderline_intellectual_functioning"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_neurocognitive_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Antidepressant_discontinuation_syndrome_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Antidepressant_discontinuation_syndrome_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Antidepressant_discontinuation_syndrome_Sequelae"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_adverse_effect_of_medication_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_adverse_effect_of_medication_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_adverse_effect_of_medication_Sequelae"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_neglect_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_neglect_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_neglect_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_neglect_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_physical_abuse_by_nonspouse_or_nonpartner_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_violence_Physical_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_physical_abuse_by_nonspouse_or_nonpartner_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_violence_Physical_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_physical_abuse_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_physical_abuse_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_sexual_abuse_by_nonspouse_or_nonpartner_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_Violence_Sexual_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_sexual_abuse_by_nonspouse_or_nonpartner_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_Violence_Sexual_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_sexual_abuse_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_sexual_abuse_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_psychological_abuse_by_nonspouse_or_nonpartner_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_abuse_Psychological_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_psychological_abuse_by_nonspouse_or_nonpartner_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_abuse_Psychological_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_psychological_abuse_Confirmed_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_psychological_abuse_Confirmed_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_neglect_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_neglect_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_neglect_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_neglect_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_physical_abuse_by_nonspouse_or_nonpartner_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_Violence_Physical_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_physical_abuse_by_nonspouse_or_nonpartner_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_Violence_Physical_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_physical_abuse_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_physical_abuse_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_sexual_abuse_by_nonspouse_or_nonpartner_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_Violence_Sexual_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_sexual_abuse_by_nonspouse_or_nonpartner_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_Violence_Sexual_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_sexual_abuse_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_sexual_abuse_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_psychological_abuse_by_nonspouse_or_nonpartner_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_abuse_Psychological_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_psychological_abuse_by_nonspouse_or_nonpartner_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Spouse_or_partner_abuse_Psychological_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_psychological_abuse_Suspected_Initial_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_psychological_abuse_Suspected_Subsequent_encounter"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#No_Diagnosis_or_Condition_on_Axis_I_/_No_Diagnosis_on_Axis_II"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Academic_or_educational_problem"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problem_related_to_current_military_deployment_status"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_problem_related_to_employment"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Homelessness"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Inadequate_housing"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Discord_with_neighbor_lodger_or_landlord"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problem_related_to_living_in_a_residential_institution"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Lack_of_adequate_food_or_safe_drinking_water"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Extreme_poverty"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Low_income"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Insufficient_social_insurance_or_welfare_support"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_housing_or_economic_problem"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Phase_of_life_problem"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problem_related_to_living_alone"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Acculturation_difficulty"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Social_exclusion_or_rejection"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Target_of_adverse_discrimination_or_persecution"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_problem_related_to_social_environment"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Upbringing_away_from_parents"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_physical_abuse_in_childhood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_sexual_abuse_in_childhood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_psychological_abuse_in_childhood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_neglect_in_childhood"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Parent-child_relational_problem"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sibling_relational_problem"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_affected_by_parental_relationship_distress"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Relationship_distress_with_spouse_or_intimate_partner"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Uncomplicated_bereavement"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Disruption_of_family_by_separation_or_divorce"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#High_expressed_emotion_level_within_family"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problems_related_to_unwanted_pregnancy"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problems_related_to_multiparity"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Discord_with_social_service_provider_including_probation_officer_case_manager_or_social_services_worker"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Conviction_in_civil_or_criminal_proceedings_without_imprisonment"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Imprisonment_or_other_incarceration"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problems_related_to_release_from_prison"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problems_related_to_other_legal_circumstances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Victim_of_crime"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Victim_of_terrorism_or_torture"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Exposure_to_disaster_war_or_other_hostilities"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_problem_related_to_psychosocial_circumstances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Religious_or_spiritual_problem"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unspecified_problem_related_to_unspecified_psychosocial_circumstances"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_neglect_Encounter_for_mental_health_services_for_victim_of_child_neglect_by_parent"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_physical_abuse_Encounter_for_mental_health_services_for_victim_of_child_abuse_by_parent"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_psychological_abuse_Encounter_for_mental_health_services_for_victim_of_child_psychological_abuse_by_parent"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_sexual_abuse_Encounter_for_mental_health_services_for_victim_of_child_sexual_abuse_by_parent"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_neglect_Encounter_for_mental_health_services_for_perpetrator_of_parental_child_neglect"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_physical_abuse_Encounter_for_mental_health_services_for_perpetrator_of_parental_child_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_psychological_abuse_Encounter_for_mental_health_services_for_perpetrator_of_parental_child_psychological_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_sexual_abuse_Encounter_for_mental_health_services_for_perpetrator_of_parental_child_sexual_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_neglect_Encounter_for_mental_health_services_for_victim_of_nonparental_child_neglect"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_physical_abuse_Encounter_for_mental_health_services_for_victim_of_nonparental_child_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_psychological_abuse_Encounter_for_mental_health_services_for_victim_of_nonparental_child_psychological_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_sexual_abuse_Encounter_for_mental_health_services_for_victim_of_nonparental_child_sexual_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_neglect_Encounter_for_mental_health_services_for_perpetrator_of_nonparental_child_neglect"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_physical_abuse_Encounter_for_mental_health_services_for_perpetrator_of_nonparental_child_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_psychological_abuse_Encounter_for_mental_health_services_for_perpetrator_of_nonparental_child_psychological_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_child_sexual_abuse_Encounter_for_mental_health_services_for_perpetrator_of_nonparental_child_sexual_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_abuse_Psychological_Encounter_for_mental_health_services_for_victim_of_spouse_or_partner_psychological_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_neglect_Encounter_for_mental_health_services_for_victim_of_spouse_or_partner_neglect"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_violence_Physical_Encounter_for_mental_health_services_for_victim_of_spouse_or_partner_violence"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_abuse_Psychological_Encounter_for_mental_health_services_for_perpetrator_of_spouse_or_partner_psychological_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_neglect_Encounter_for_mental_health_services_for_perpetrator_of_spouse_or_partner_neglect"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_violence_Physical_Encounter_for_mental_health_services_for_perpetrator_of_spouse_or_partner_violence"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_violence_Sexual_Encounter_for_mental_health_services_for_perpetrator_of_spouse_or_partner_violence"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_adult_abuse_by_nonspouse_or_nonpartner_Encounter_for_mental_health_services_for_victim_of_nonspousal_adult_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_spouse_or_partner_violence_Sexual_Encounter_for_mental_health_services_for_victim_of_spouse_or_partner_violence"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_circumstances_related_to_adult_abuse_by_nonspouse_or_nonpartner_Encounter_for_mental_health_services_for_perpetrator_of_nonspousal_adult_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Sex_counseling"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_counseling_or_consultation"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Tobacco_use_disorder_Mild"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Child_or_adolescent_antisocial_behavior"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Adult_antisocial_behavior"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Problem_related_to_lifestyle"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unavailability_or_inaccessibility_of_health_care_facilities"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Unavailability_or_inaccessibility_of_other_helping_agencies"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Malingering"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Nonadherence_to_medical_treatment"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_spouse_or_partner_violence_Physical"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_spouse_or_partner_violence_Sexual"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_spouse_or_partner_psychological_abuse"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_spouse_or_partner_neglect"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_personal_history_of_psychological_trauma"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_self-harm"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Personal_history_of_military_deployment"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Wandering_associated_with_a_mental_disorder"/>
+	</Declaration>
+	<Declaration>
+		<Class IRI="#Other_personal_risk_factors"/>
+	</Declaration>
+
+</Ontology>

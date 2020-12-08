@@ -1,0 +1,2371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<context>
+	<node id="b0">
+		<name>Top</name>
+		<children>
+			<node id="b1" parent_id="b0">
+				<name>Obesity
+</name>
+			</node>
+			<node id="b2" parent_id="b0">
+				<name>Vascular dementia without behavioral disturbance
+</name>
+			</node>
+			<node id="b3" parent_id="b0">
+				<name>Vascular dementia with behavioral disturbance
+</name>
+			</node>
+			<node id="b4" parent_id="b0">
+				<name>Dementia in other diseases classified elsewhere without behavioral disturbance
+</name>
+			</node>
+			<node id="b5" parent_id="b0">
+				<name>Dementia in other diseases classified elsewhere with behavioral disturbance
+</name>
+			</node>
+			<node id="b6" parent_id="b0">
+				<name>Delirium due to known physiological condition
+</name>
+			</node>
+			<node id="b7" parent_id="b0">
+				<name>Psychotic disorder with hallucinations due to known physiological condition
+</name>
+			</node>
+			<node id="b8" parent_id="b0">
+				<name>Catatonic disorder due to known physiological condition
+</name>
+			</node>
+			<node id="b9" parent_id="b0">
+				<name>Psychotic disorder with delusions due to known physiological condition
+</name>
+			</node>
+			<node id="b10" parent_id="b0">
+				<name>Mood disorder due to known physiological condition with depressive features
+</name>
+			</node>
+			<node id="b11" parent_id="b0">
+				<name>Mood disorder due to known physiological condition with major depressive-like episode
+</name>
+			</node>
+			<node id="b12" parent_id="b0">
+				<name>Mood disorder due to known physiological condition with manic features
+</name>
+			</node>
+			<node id="b13" parent_id="b0">
+				<name>Mood disorder due to known physiological condition with mixed features
+</name>
+			</node>
+			<node id="b14" parent_id="b0">
+				<name>Anxiety disorder due to known physiological condition
+</name>
+			</node>
+			<node id="b15" parent_id="b0">
+				<name>Other specified mental disorders due to known physiological condition
+</name>
+			</node>
+			<node id="b16" parent_id="b0">
+				<name>Personality change due to known physiological condition
+</name>
+			</node>
+			<node id="b17" parent_id="b0">
+				<name>Unspecified mental disorder due to known physiological condition
+</name>
+			</node>
+			<node id="b18" parent_id="b0">
+				<name>Alcohol abuse
+</name>
+			</node>
+			<node id="b19" parent_id="b0">
+				<name>Alcohol abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b20" parent_id="b0">
+				<name>Alcohol abuse with intoxication
+</name>
+			</node>
+			<node id="b21" parent_id="b0">
+				<name>Alcohol abuse with alcohol-induced mood disorder
+</name>
+			</node>
+			<node id="b22" parent_id="b0">
+				<name>Alcohol abuse with alcohol-induced psychotic disorder
+</name>
+			</node>
+			<node id="b23" parent_id="b0">
+				<name>Alcohol abuse with alcohol-induced anxiety disorder
+</name>
+			</node>
+			<node id="b24" parent_id="b0">
+				<name>Alcohol abuse with alcohol-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b25" parent_id="b0">
+				<name>Alcohol abuse with alcohol-induced sleep disorder
+</name>
+			</node>
+			<node id="b26" parent_id="b0">
+				<name>Alcohol dependence
+</name>
+			</node>
+			<node id="b27" parent_id="b0">
+				<name>Alcohol dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b28" parent_id="b0">
+				<name>Alcohol dependence with intoxication
+</name>
+			</node>
+			<node id="b29" parent_id="b0">
+				<name>Alcohol dependence with withdrawal delirium
+</name>
+			</node>
+			<node id="b30" parent_id="b0">
+				<name>Alcohol dependence with withdrawal with perceptual disturbance
+</name>
+			</node>
+			<node id="b31" parent_id="b0">
+				<name>Alcohol dependence with withdrawal
+</name>
+			</node>
+			<node id="b32" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced mood disorder
+</name>
+			</node>
+			<node id="b33" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced psychotic disorder
+</name>
+			</node>
+			<node id="b34" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced persisting amnestic disorder
+</name>
+			</node>
+			<node id="b35" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced persisting dementia
+</name>
+			</node>
+			<node id="b36" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced anxiety disorder
+</name>
+			</node>
+			<node id="b37" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b38" parent_id="b0">
+				<name>Alcohol dependence with alcohol-induced sleep disorder
+</name>
+			</node>
+			<node id="b39" parent_id="b0">
+				<name>Alcohol dependence with other alcohol-induced disorder
+</name>
+			</node>
+			<node id="b40" parent_id="b0">
+				<name>Alcohol use with intoxication delirium
+</name>
+			</node>
+			<node id="b41" parent_id="b0">
+				<name>Alcohol use with intoxication
+</name>
+			</node>
+			<node id="b42" parent_id="b0">
+				<name>Alcohol use with alcohol-induced mood disorder
+</name>
+			</node>
+			<node id="b43" parent_id="b0">
+				<name>Alcohol use with alcohol-induced psychotic disorder
+</name>
+			</node>
+			<node id="b44" parent_id="b0">
+				<name>Alcohol use with alcohol-induced persisting amnestic disorder
+</name>
+			</node>
+			<node id="b45" parent_id="b0">
+				<name>Alcohol use with alcohol-induced persisting dementia
+</name>
+			</node>
+			<node id="b46" parent_id="b0">
+				<name>Alcohol use with alcohol-induced anxiety disorder
+</name>
+			</node>
+			<node id="b47" parent_id="b0">
+				<name>Alcohol use with alcohol-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b48" parent_id="b0">
+				<name>Alcohol use with alcohol-induced sleep disorder
+</name>
+			</node>
+			<node id="b49" parent_id="b0">
+				<name>Alcohol use with other alcohol-induced disorder
+</name>
+			</node>
+			<node id="b50" parent_id="b0">
+				<name>Alcohol use with unspecified alcohol-induced disorder
+</name>
+			</node>
+			<node id="b51" parent_id="b0">
+				<name>Opioid abuse
+</name>
+			</node>
+			<node id="b52" parent_id="b0">
+				<name>Opioid abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b53" parent_id="b0">
+				<name>Opioid abuse with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b54" parent_id="b0">
+				<name>Opioid abuse with intoxication
+</name>
+			</node>
+			<node id="b55" parent_id="b0">
+				<name>Opioid abuse with opioid-induced mood disorder
+</name>
+			</node>
+			<node id="b56" parent_id="b0">
+				<name>Opioid abuse with opioid-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b57" parent_id="b0">
+				<name>Opioid abuse with opioid-induced sleep disorder
+</name>
+			</node>
+			<node id="b58" parent_id="b0">
+				<name>Opioid abuse with other opioid-induced disorder
+</name>
+			</node>
+			<node id="b59" parent_id="b0">
+				<name>Opioid dependence
+</name>
+			</node>
+			<node id="b60" parent_id="b0">
+				<name>Opioid dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b61" parent_id="b0">
+				<name>Opioid dependence with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b62" parent_id="b0">
+				<name>Opioid dependence with intoxication
+</name>
+			</node>
+			<node id="b63" parent_id="b0">
+				<name>Opioid dependence with withdrawal
+</name>
+			</node>
+			<node id="b64" parent_id="b0">
+				<name>Opioid dependence with opioid-induced mood disorder
+</name>
+			</node>
+			<node id="b65" parent_id="b0">
+				<name>Opioid dependence with opioid-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b66" parent_id="b0">
+				<name>Opioid dependence with opioid-induced sleep disorder
+</name>
+			</node>
+			<node id="b67" parent_id="b0">
+				<name>Opioid dependence with other opioid-induced disorder
+</name>
+			</node>
+			<node id="b68" parent_id="b0">
+				<name>Opioid use with intoxication delirium
+</name>
+			</node>
+			<node id="b69" parent_id="b0">
+				<name>Opioid use with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b70" parent_id="b0">
+				<name>Opioid use with intoxication
+</name>
+			</node>
+			<node id="b71" parent_id="b0">
+				<name>Opioid use with opioid-induced mood disorder
+</name>
+			</node>
+			<node id="b72" parent_id="b0">
+				<name>Opioid use with opioid-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b73" parent_id="b0">
+				<name>Opioid use with opioid-induced sleep disorder
+</name>
+			</node>
+			<node id="b74" parent_id="b0">
+				<name>Opioid use with other opioid-induced disorder
+</name>
+			</node>
+			<node id="b75" parent_id="b0">
+				<name>Opioid use with unspecified opioid-induced disorder
+</name>
+			</node>
+			<node id="b76" parent_id="b0">
+				<name>Cannabis abuse
+</name>
+			</node>
+			<node id="b77" parent_id="b0">
+				<name>Cannabis abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b78" parent_id="b0">
+				<name>Cannabis abuse with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b79" parent_id="b0">
+				<name>Cannabis abuse with intoxication
+</name>
+			</node>
+			<node id="b80" parent_id="b0">
+				<name>Cannabis abuse with psychotic disorder
+</name>
+			</node>
+			<node id="b81" parent_id="b0">
+				<name>Cannabis abuse with cannabis-induced anxiety disorder
+</name>
+			</node>
+			<node id="b82" parent_id="b0">
+				<name>Cannabis abuse with other cannabis-induced disorder
+</name>
+			</node>
+			<node id="b83" parent_id="b0">
+				<name>Cannabis dependence
+</name>
+			</node>
+			<node id="b84" parent_id="b0">
+				<name>Cannabis dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b85" parent_id="b0">
+				<name>Cannabis dependence with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b86" parent_id="b0">
+				<name>Cannabis dependence with intoxication
+</name>
+			</node>
+			<node id="b87" parent_id="b0">
+				<name>Cannabis dependence with psychotic disorder
+</name>
+			</node>
+			<node id="b88" parent_id="b0">
+				<name>Cannabis dependence with cannabis-induced anxiety disorder
+</name>
+			</node>
+			<node id="b89" parent_id="b0">
+				<name>Cannabis dependence with other cannabis-induced disorder
+</name>
+			</node>
+			<node id="b90" parent_id="b0">
+				<name>Cannabis use with intoxication delirium
+</name>
+			</node>
+			<node id="b91" parent_id="b0">
+				<name>Cannabis use with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b92" parent_id="b0">
+				<name>Cannabis use with intoxication
+</name>
+			</node>
+			<node id="b93" parent_id="b0">
+				<name>Cannabis use with psychotic disorder
+</name>
+			</node>
+			<node id="b94" parent_id="b0">
+				<name>Cannabis use with anxiety disorder
+</name>
+			</node>
+			<node id="b95" parent_id="b0">
+				<name>Cannabis use with other cannabis-induced disorder
+</name>
+			</node>
+			<node id="b96" parent_id="b0">
+				<name>Cannabis use with unspecified cannabis-induced disorder
+</name>
+			</node>
+			<node id="b97" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse
+</name>
+			</node>
+			<node id="b98" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b99" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with intoxication
+</name>
+			</node>
+			<node id="b100" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with sedative hypnotic or anxiolytic-induced mood disorder
+</name>
+			</node>
+			<node id="b101" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with sedative hypnotic or anxiolytic-induced psychotic disorder
+</name>
+			</node>
+			<node id="b102" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with sedative hypnotic or anxiolytic-induced anxiety disorder
+</name>
+			</node>
+			<node id="b103" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with sedative hypnotic or anxiolytic-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b104" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic abuse with sedative hypnotic or anxiolytic-induced sleep disorder
+</name>
+			</node>
+			<node id="b105" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence
+</name>
+			</node>
+			<node id="b106" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b107" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with intoxication
+</name>
+			</node>
+			<node id="b108" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with withdrawal delirium
+</name>
+			</node>
+			<node id="b109" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with withdrawal with perceptual disturbance
+</name>
+			</node>
+			<node id="b110" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with withdrawal
+</name>
+			</node>
+			<node id="b111" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with sedative hypnotic or anxiolytic-induced mood disorder
+</name>
+			</node>
+			<node id="b112" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with sedative hypnotic or anxiolytic-induced psychotic disorder
+</name>
+			</node>
+			<node id="b113" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with sedative hypnotic or anxiolytic-induced persisting dementia
+</name>
+			</node>
+			<node id="b114" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with sedative hypnotic or anxiolytic-induced anxiety disorder
+</name>
+			</node>
+			<node id="b115" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with sedative hypnotic or anxiolytic-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b116" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with sedative hypnotic or anxiolytic-induced sleep disorder
+</name>
+			</node>
+			<node id="b117" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic dependence with other sedative hypnotic or anxiolytic-induced disorder
+</name>
+			</node>
+			<node id="b118" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with intoxication delirium
+</name>
+			</node>
+			<node id="b119" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with intoxication
+</name>
+			</node>
+			<node id="b120" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with sedative hypnotic or anxiolytic-induced mood disorder
+</name>
+			</node>
+			<node id="b121" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with sedative hypnotic or anxiolytic-induced psychotic disorder
+</name>
+			</node>
+			<node id="b122" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with sedative hypnotic or anxiolytic-induced persisting dementia
+</name>
+			</node>
+			<node id="b123" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with sedative hypnotic or anxiolytic-induced anxiety disorder
+</name>
+			</node>
+			<node id="b124" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with sedative hypnotic or anxiolytic-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b125" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with sedative hypnotic or anxiolytic-induced sleep disorder
+</name>
+			</node>
+			<node id="b126" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with other sedative hypnotic or anxiolytic-induced disorder
+</name>
+			</node>
+			<node id="b127" parent_id="b0">
+				<name>Sedative hypnotic or anxiolytic use with unspecified sedative hypnotic or anxiolytic-induced disorder
+</name>
+			</node>
+			<node id="b128" parent_id="b0">
+				<name>Cocaine abuse
+</name>
+			</node>
+			<node id="b129" parent_id="b0">
+				<name>Cocaine abuse with intoxication with delirium
+</name>
+			</node>
+			<node id="b130" parent_id="b0">
+				<name>Cocaine abuse with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b131" parent_id="b0">
+				<name>Cocaine abuse with intoxication
+</name>
+			</node>
+			<node id="b132" parent_id="b0">
+				<name>Cocaine abuse with cocaine-induced mood disorder
+</name>
+			</node>
+			<node id="b133" parent_id="b0">
+				<name>Cocaine abuse with cocaine-induced psychotic disorder
+</name>
+			</node>
+			<node id="b134" parent_id="b0">
+				<name>Cocaine abuse with cocaine-induced anxiety disorder
+</name>
+			</node>
+			<node id="b135" parent_id="b0">
+				<name>Cocaine abuse with cocaine-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b136" parent_id="b0">
+				<name>Cocaine abuse with cocaine-induced sleep disorder
+</name>
+			</node>
+			<node id="b137" parent_id="b0">
+				<name>Cocaine abuse with other cocaine-induced disorder
+</name>
+			</node>
+			<node id="b138" parent_id="b0">
+				<name>Cocaine dependence
+</name>
+			</node>
+			<node id="b139" parent_id="b0">
+				<name>Cocaine dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b140" parent_id="b0">
+				<name>Cocaine dependence with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b141" parent_id="b0">
+				<name>Cocaine dependence with intoxication
+</name>
+			</node>
+			<node id="b142" parent_id="b0">
+				<name>Cocaine dependence with withdrawal
+</name>
+			</node>
+			<node id="b143" parent_id="b0">
+				<name>Cocaine dependence with cocaine-induced mood disorder
+</name>
+			</node>
+			<node id="b144" parent_id="b0">
+				<name>Cocaine dependence with cocaine-induced psychotic disorder
+</name>
+			</node>
+			<node id="b145" parent_id="b0">
+				<name>Cocaine dependence with cocaine-induced anxiety disorder
+</name>
+			</node>
+			<node id="b146" parent_id="b0">
+				<name>Cocaine dependence with cocaine-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b147" parent_id="b0">
+				<name>Cocaine dependence with cocaine-induced sleep disorder
+</name>
+			</node>
+			<node id="b148" parent_id="b0">
+				<name>Cocaine dependence with other cocaine-induced disorder
+</name>
+			</node>
+			<node id="b149" parent_id="b0">
+				<name>Cocaine use with intoxication delirium
+</name>
+			</node>
+			<node id="b150" parent_id="b0">
+				<name>Cocaine use with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b151" parent_id="b0">
+				<name>Cocaine use with intoxication
+</name>
+			</node>
+			<node id="b152" parent_id="b0">
+				<name>Cocaine use with cocaine-induced mood disorder
+</name>
+			</node>
+			<node id="b153" parent_id="b0">
+				<name>Cocaine use with cocaine-induced psychotic disorder
+</name>
+			</node>
+			<node id="b154" parent_id="b0">
+				<name>Cocaine use with cocaine-induced anxiety disorder
+</name>
+			</node>
+			<node id="b155" parent_id="b0">
+				<name>Cocaine use with cocaine-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b156" parent_id="b0">
+				<name>Cocaine use with cocaine-induced sleep disorder
+</name>
+			</node>
+			<node id="b157" parent_id="b0">
+				<name>Cocaine use with other cocaine-induced disorder
+</name>
+			</node>
+			<node id="b158" parent_id="b0">
+				<name>Cocaine use with unspecified cocaine-induced disorder
+</name>
+			</node>
+			<node id="b159" parent_id="b0">
+				<name>Other stimulant abuse
+</name>
+			</node>
+			<node id="b160" parent_id="b0">
+				<name>Other stimulant abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b161" parent_id="b0">
+				<name>Other stimulant abuse with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b162" parent_id="b0">
+				<name>Other stimulant abuse with intoxication
+</name>
+			</node>
+			<node id="b163" parent_id="b0">
+				<name>Other stimulant abuse with stimulant-induced mood disorder
+</name>
+			</node>
+			<node id="b164" parent_id="b0">
+				<name>Other stimulant abuse with stimulant-induced psychotic disorder
+</name>
+			</node>
+			<node id="b165" parent_id="b0">
+				<name>Other stimulant abuse with stimulant-induced anxiety disorder
+</name>
+			</node>
+			<node id="b166" parent_id="b0">
+				<name>Other stimulant abuse with stimulant-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b167" parent_id="b0">
+				<name>Other stimulant abuse with stimulant-induced sleep disorder
+</name>
+			</node>
+			<node id="b168" parent_id="b0">
+				<name>Other stimulant abuse with other stimulant-induced disorder
+</name>
+			</node>
+			<node id="b169" parent_id="b0">
+				<name>Other stimulant dependence
+</name>
+			</node>
+			<node id="b170" parent_id="b0">
+				<name>Other stimulant dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b171" parent_id="b0">
+				<name>Other stimulant dependence with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b172" parent_id="b0">
+				<name>Other stimulant dependence with intoxication
+</name>
+			</node>
+			<node id="b173" parent_id="b0">
+				<name>Other stimulant dependence with withdrawal
+</name>
+			</node>
+			<node id="b174" parent_id="b0">
+				<name>Other stimulant dependence with stimulant-induced mood disorder
+</name>
+			</node>
+			<node id="b175" parent_id="b0">
+				<name>Other stimulant dependence with stimulant-induced psychotic disorder
+</name>
+			</node>
+			<node id="b176" parent_id="b0">
+				<name>Other stimulant dependence with stimulant-induced anxiety disorder
+</name>
+			</node>
+			<node id="b177" parent_id="b0">
+				<name>Other stimulant dependence with stimulant-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b178" parent_id="b0">
+				<name>Other stimulant dependence with stimulant-induced sleep disorder
+</name>
+			</node>
+			<node id="b179" parent_id="b0">
+				<name>Other stimulant dependence with other stimulant-induced disorder
+</name>
+			</node>
+			<node id="b180" parent_id="b0">
+				<name>Other stimulant use with intoxication delirium
+</name>
+			</node>
+			<node id="b181" parent_id="b0">
+				<name>Other stimulant use with intoxication with perceptual disturbance
+</name>
+			</node>
+			<node id="b182" parent_id="b0">
+				<name>Other stimulant use with intoxication
+</name>
+			</node>
+			<node id="b183" parent_id="b0">
+				<name>Other stimulant use with withdrawal
+</name>
+			</node>
+			<node id="b184" parent_id="b0">
+				<name>Other stimulant use with stimulant-induced mood disorder
+</name>
+			</node>
+			<node id="b185" parent_id="b0">
+				<name>Other stimulant use with stimulant-induced psychotic disorder
+</name>
+			</node>
+			<node id="b186" parent_id="b0">
+				<name>Other stimulant use with stimulant-induced anxiety disorder
+</name>
+			</node>
+			<node id="b187" parent_id="b0">
+				<name>Other stimulant use with stimulant-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b188" parent_id="b0">
+				<name>Other stimulant use with stimulant-induced sleep disorder
+</name>
+			</node>
+			<node id="b189" parent_id="b0">
+				<name>Other stimulant use with other stimulant-induced disorder
+</name>
+			</node>
+			<node id="b190" parent_id="b0">
+				<name>Other stimulant use with unspecified stimulant-induced disorder
+</name>
+			</node>
+			<node id="b191" parent_id="b0">
+				<name>Hallucinogen abuse
+</name>
+			</node>
+			<node id="b192" parent_id="b0">
+				<name>Hallucinogen abuse with intoxication with delirium
+</name>
+			</node>
+			<node id="b193" parent_id="b0">
+				<name>Hallucinogen abuse with intoxication
+</name>
+			</node>
+			<node id="b194" parent_id="b0">
+				<name>Hallucinogen abuse with hallucinogen-induced mood disorder
+</name>
+			</node>
+			<node id="b195" parent_id="b0">
+				<name>Hallucinogen abuse with hallucinogen-induced psychotic disorder
+</name>
+			</node>
+			<node id="b196" parent_id="b0">
+				<name>Hallucinogen abuse with hallucinogen-induced anxiety disorder
+</name>
+			</node>
+			<node id="b197" parent_id="b0">
+				<name>Hallucinogen dependence
+</name>
+			</node>
+			<node id="b198" parent_id="b0">
+				<name>Hallucinogen dependence with intoxication with delirium
+</name>
+			</node>
+			<node id="b199" parent_id="b0">
+				<name>Hallucinogen dependence with intoxication
+</name>
+			</node>
+			<node id="b200" parent_id="b0">
+				<name>Hallucinogen dependence with hallucinogen-induced mood disorder
+</name>
+			</node>
+			<node id="b201" parent_id="b0">
+				<name>Hallucinogen dependence with hallucinogen-induced psychotic disorder
+</name>
+			</node>
+			<node id="b202" parent_id="b0">
+				<name>Hallucinogen dependence with hallucinogen-induced anxiety disorder
+</name>
+			</node>
+			<node id="b203" parent_id="b0">
+				<name>Hallucinogen use with intoxication with delirium
+</name>
+			</node>
+			<node id="b204" parent_id="b0">
+				<name>Hallucinogen use with intoxication
+</name>
+			</node>
+			<node id="b205" parent_id="b0">
+				<name>Hallucinogen use with hallucinogen-induced mood disorder
+</name>
+			</node>
+			<node id="b206" parent_id="b0">
+				<name>Hallucinogen use with hallucinogen-induced psychotic disorder
+</name>
+			</node>
+			<node id="b207" parent_id="b0">
+				<name>Hallucinogen use with hallucinogen-induced anxiety disorder
+</name>
+			</node>
+			<node id="b208" parent_id="b0">
+				<name>Hallucinogen use with hallucinogen persisting perception disorder
+</name>
+			</node>
+			<node id="b209" parent_id="b0">
+				<name>Hallucinogen use with unspecified hallucinogen-induced disorder
+</name>
+			</node>
+			<node id="b210" parent_id="b0">
+				<name>Nicotine dependence
+</name>
+			</node>
+			<node id="b211" parent_id="b0">
+				<name>Nicotine dependence unspecified with withdrawal
+</name>
+			</node>
+			<node id="b212" parent_id="b0">
+				<name>Nicotine dependence with other nicotine-induced disorders
+</name>
+			</node>
+			<node id="b213" parent_id="b0">
+				<name>Nicotine dependence with unspecified nicotine-induced disorders
+</name>
+			</node>
+			<node id="b214" parent_id="b0">
+				<name>Inhalant abuse
+</name>
+			</node>
+			<node id="b215" parent_id="b0">
+				<name>Inhalant abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b216" parent_id="b0">
+				<name>Inhalant abuse with intoxication
+</name>
+			</node>
+			<node id="b217" parent_id="b0">
+				<name>Inhalant abuse with inhalant-induced mood disorder
+</name>
+			</node>
+			<node id="b218" parent_id="b0">
+				<name>Inhalant abuse with inhalant-induced psychotic disorder
+</name>
+			</node>
+			<node id="b219" parent_id="b0">
+				<name>Inhalant abuse with inhalant-induced dementia
+</name>
+			</node>
+			<node id="b220" parent_id="b0">
+				<name>Inhalant abuse with inhalant-induced anxiety disorder
+</name>
+			</node>
+			<node id="b221" parent_id="b0">
+				<name>Inhalant abuse with other inhalant-induced disorder
+</name>
+			</node>
+			<node id="b222" parent_id="b0">
+				<name>Inhalant dependence
+</name>
+			</node>
+			<node id="b223" parent_id="b0">
+				<name>Inhalant dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b224" parent_id="b0">
+				<name>Inhalant dependence with intoxication
+</name>
+			</node>
+			<node id="b225" parent_id="b0">
+				<name>Inhalant dependence with inhalant-induced mood disorder
+</name>
+			</node>
+			<node id="b226" parent_id="b0">
+				<name>Inhalant dependence with inhalant-induced psychotic disorder
+</name>
+			</node>
+			<node id="b227" parent_id="b0">
+				<name>Inhalant dependence with inhalant-induced dementia
+</name>
+			</node>
+			<node id="b228" parent_id="b0">
+				<name>Inhalant dependence with inhalant-induced anxiety disorder
+</name>
+			</node>
+			<node id="b229" parent_id="b0">
+				<name>Inhalant dependence with other inhalant-induced disorder
+</name>
+			</node>
+			<node id="b230" parent_id="b0">
+				<name>Inhalant use with intoxication with delirium
+</name>
+			</node>
+			<node id="b231" parent_id="b0">
+				<name>Inhalant use with intoxication
+</name>
+			</node>
+			<node id="b232" parent_id="b0">
+				<name>Inhalant use with inhalant-induced mood disorder
+</name>
+			</node>
+			<node id="b233" parent_id="b0">
+				<name>Inhalant use with inhalant-induced psychotic disorder
+</name>
+			</node>
+			<node id="b234" parent_id="b0">
+				<name>Inhalant use with inhalant-induced persisting dementia
+</name>
+			</node>
+			<node id="b235" parent_id="b0">
+				<name>Inhalant use with inhalant-induced anxiety disorder
+</name>
+			</node>
+			<node id="b236" parent_id="b0">
+				<name>Inhalant use with other inhalant-induced disorder
+</name>
+			</node>
+			<node id="b237" parent_id="b0">
+				<name>Inhalant use with unspecified inhalant-induced disorder
+</name>
+			</node>
+			<node id="b238" parent_id="b0">
+				<name>Other psychoactive substance abuse
+</name>
+			</node>
+			<node id="b239" parent_id="b0">
+				<name>Other psychoactive substance abuse with intoxication delirium
+</name>
+			</node>
+			<node id="b240" parent_id="b0">
+				<name>Other psychoactive substance abuse with intoxication
+</name>
+			</node>
+			<node id="b241" parent_id="b0">
+				<name>Other psychoactive substance abuse with psychoactive substance-induced mood disorder
+</name>
+			</node>
+			<node id="b242" parent_id="b0">
+				<name>Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder
+</name>
+			</node>
+			<node id="b243" parent_id="b0">
+				<name>Other psychoactive substance abuse with psychoactive substance-induced persisting dementia
+</name>
+			</node>
+			<node id="b244" parent_id="b0">
+				<name>Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+</name>
+			</node>
+			<node id="b245" parent_id="b0">
+				<name>Other psychoactive substance abuse with psychoactive substance-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b246" parent_id="b0">
+				<name>Other psychoactive substance abuse with psychoactive substance-induced sleep disorder
+</name>
+			</node>
+			<node id="b247" parent_id="b0">
+				<name>Other psychoactive substance abuse with other psychoactive substance-induced disorder
+</name>
+			</node>
+			<node id="b248" parent_id="b0">
+				<name>Other psychoactive substance dependence
+</name>
+			</node>
+			<node id="b249" parent_id="b0">
+				<name>Other psychoactive substance dependence with intoxication delirium
+</name>
+			</node>
+			<node id="b250" parent_id="b0">
+				<name>Other psychoactive substance dependence with intoxication
+</name>
+			</node>
+			<node id="b251" parent_id="b0">
+				<name>Other psychoactive substance dependence with withdrawal delirium
+</name>
+			</node>
+			<node id="b252" parent_id="b0">
+				<name>Other psychoactive substance dependence with withdrawal
+</name>
+			</node>
+			<node id="b253" parent_id="b0">
+				<name>Other psychoactive substance dependence with psychoactive substance-induced mood disorder
+</name>
+			</node>
+			<node id="b254" parent_id="b0">
+				<name>Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder
+</name>
+			</node>
+			<node id="b255" parent_id="b0">
+				<name>Other psychoactive substance dependence with psychoactive substance-induced persisting dementia
+</name>
+			</node>
+			<node id="b256" parent_id="b0">
+				<name>Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+</name>
+			</node>
+			<node id="b257" parent_id="b0">
+				<name>Other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b258" parent_id="b0">
+				<name>Other psychoactive substance dependence with psychoactive substance-induced sleep disorder
+</name>
+			</node>
+			<node id="b259" parent_id="b0">
+				<name>Other psychoactive substance dependence with other psychoactive substance-induced disorder
+</name>
+			</node>
+			<node id="b260" parent_id="b0">
+				<name>Other psychoactive substance use with intoxication with delirium
+</name>
+			</node>
+			<node id="b261" parent_id="b0">
+				<name>Other psychoactive substance use with intoxication
+</name>
+			</node>
+			<node id="b262" parent_id="b0">
+				<name>Other psychoactive substance use with psychoactive substance-induced mood disorder
+</name>
+			</node>
+			<node id="b263" parent_id="b0">
+				<name>Other psychoactive substance use with psychoactive substance-induced psychotic disorder
+</name>
+			</node>
+			<node id="b264" parent_id="b0">
+				<name>Other psychoactive substance use with psychoactive substance-induced persisting dementia
+</name>
+			</node>
+			<node id="b265" parent_id="b0">
+				<name>Other psychoactive substance use with psychoactive substance-induced anxiety disorder
+</name>
+			</node>
+			<node id="b266" parent_id="b0">
+				<name>Other psychoactive substance use with psychoactive substance-induced sexual dysfunction
+</name>
+			</node>
+			<node id="b267" parent_id="b0">
+				<name>Other psychoactive substance use with psychoactive substance-induced sleep disorder
+</name>
+			</node>
+			<node id="b268" parent_id="b0">
+				<name>Other psychoactive substance use with other psychoactive substance-induced disorder
+</name>
+			</node>
+			<node id="b269" parent_id="b0">
+				<name>Other psychoactive substance use with unspecified psychoactive substance-induced disorder
+</name>
+			</node>
+			<node id="b270" parent_id="b0">
+				<name>Schizophreniform disorder
+</name>
+			</node>
+			<node id="b271" parent_id="b0">
+				<name>Schizophrenia
+</name>
+			</node>
+			<node id="b272" parent_id="b0">
+				<name>Schizotypal disorder
+</name>
+			</node>
+			<node id="b273" parent_id="b0">
+				<name>Delusional disorders
+</name>
+			</node>
+			<node id="b274" parent_id="b0">
+				<name>Brief psychotic disorder
+</name>
+			</node>
+			<node id="b275" parent_id="b0">
+				<name>Schizoaffective disorder bipolar type
+</name>
+			</node>
+			<node id="b276" parent_id="b0">
+				<name>Schizoaffective disorder depressive type
+</name>
+			</node>
+			<node id="b277" parent_id="b0">
+				<name>Other psychotic disorder not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b278" parent_id="b0">
+				<name>Unspecified psychosis not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b279" parent_id="b0">
+				<name>Bipolar disorder current episode hypomanic
+</name>
+			</node>
+			<node id="b280" parent_id="b0">
+				<name>Bipolar disorder current episode manic without psychotic features mild
+</name>
+			</node>
+			<node id="b281" parent_id="b0">
+				<name>Bipolar disorder current episode manic without psychotic features moderate
+</name>
+			</node>
+			<node id="b282" parent_id="b0">
+				<name>Bipolar disorder current episode manic without psychotic features severe
+</name>
+			</node>
+			<node id="b283" parent_id="b0">
+				<name>Bipolar disorder current episode manic severe with psychotic features
+</name>
+			</node>
+			<node id="b284" parent_id="b0">
+				<name>Bipolar disorder current episode depressed mild
+</name>
+			</node>
+			<node id="b285" parent_id="b0">
+				<name>Bipolar disorder current episode depressed moderate
+</name>
+			</node>
+			<node id="b286" parent_id="b0">
+				<name>Bipolar disorder current episode depressed severe without psychotic features
+</name>
+			</node>
+			<node id="b287" parent_id="b0">
+				<name>Bipolar disorder current episode depressed severe with psychotic features
+</name>
+			</node>
+			<node id="b288" parent_id="b0">
+				<name>Bipolar disorder in partial remission most recent episode manic
+</name>
+			</node>
+			<node id="b289" parent_id="b0">
+				<name>Bipolar disorder in full remission most recent episode manic
+</name>
+			</node>
+			<node id="b290" parent_id="b0">
+				<name>Bipolar disorder in partial remission most recent episode depressed
+</name>
+			</node>
+			<node id="b291" parent_id="b0">
+				<name>Bipolar disorder in full remission most recent episode depressed
+</name>
+			</node>
+			<node id="b292" parent_id="b0">
+				<name>Bipolar II disorder
+</name>
+			</node>
+			<node id="b293" parent_id="b0">
+				<name>Other bipolar disorder
+</name>
+			</node>
+			<node id="b294" parent_id="b0">
+				<name>Bipolar disorder
+</name>
+			</node>
+			<node id="b295" parent_id="b0">
+				<name>Major depressive disorder single episode mild
+</name>
+			</node>
+			<node id="b296" parent_id="b0">
+				<name>Major depressive disorder single episode moderate
+</name>
+			</node>
+			<node id="b297" parent_id="b0">
+				<name>Major depressive disorder single episode severe without psychotic features
+</name>
+			</node>
+			<node id="b298" parent_id="b0">
+				<name>Major depressive disorder single episode severe with psychotic features
+</name>
+			</node>
+			<node id="b299" parent_id="b0">
+				<name>Major depressive disorder single episode in partial remission
+</name>
+			</node>
+			<node id="b300" parent_id="b0">
+				<name>Major depressive disorder single episode in full remission
+</name>
+			</node>
+			<node id="b301" parent_id="b0">
+				<name>Other depressive episodes
+</name>
+			</node>
+			<node id="b302" parent_id="b0">
+				<name>Major depressive disorder single episode
+</name>
+			</node>
+			<node id="b303" parent_id="b0">
+				<name>Major depressive disorder recurrent mild
+</name>
+			</node>
+			<node id="b304" parent_id="b0">
+				<name>Major depressive disorder recurrent moderate
+</name>
+			</node>
+			<node id="b305" parent_id="b0">
+				<name>Major depressive disorder recurrent severe without psychotic features
+</name>
+			</node>
+			<node id="b306" parent_id="b0">
+				<name>Major depressive disorder recurrent severe with psychotic symptoms
+</name>
+			</node>
+			<node id="b307" parent_id="b0">
+				<name>Major depressive disorder recurrent in partial remission
+</name>
+			</node>
+			<node id="b308" parent_id="b0">
+				<name>Major depressive disorder recurrent in full remission
+</name>
+			</node>
+			<node id="b309" parent_id="b0">
+				<name>Major depressive disorder recurrent
+</name>
+			</node>
+			<node id="b310" parent_id="b0">
+				<name>Cyclothymic disorder
+</name>
+			</node>
+			<node id="b311" parent_id="b0">
+				<name>Dysthymic disorder
+</name>
+			</node>
+			<node id="b312" parent_id="b0">
+				<name>Other persistent mood disorders
+</name>
+			</node>
+			<node id="b313" parent_id="b0">
+				<name>Agoraphobia
+</name>
+			</node>
+			<node id="b314" parent_id="b0">
+				<name>Social phobia
+</name>
+			</node>
+			<node id="b315" parent_id="b0">
+				<name>Other animal type phobia
+</name>
+			</node>
+			<node id="b316" parent_id="b0">
+				<name>Other natural environment type phobia
+</name>
+			</node>
+			<node id="b317" parent_id="b0">
+				<name>Fear of blood
+</name>
+			</node>
+			<node id="b318" parent_id="b0">
+				<name>Fear of injections and transfusions
+</name>
+			</node>
+			<node id="b319" parent_id="b0">
+				<name>Fear of other medical care
+</name>
+			</node>
+			<node id="b320" parent_id="b0">
+				<name>Fear of injury
+</name>
+			</node>
+			<node id="b321" parent_id="b0">
+				<name>Other situational type phobia
+</name>
+			</node>
+			<node id="b322" parent_id="b0">
+				<name>Other specified phobia
+</name>
+			</node>
+			<node id="b323" parent_id="b0">
+				<name>Panic disorder
+</name>
+			</node>
+			<node id="b324" parent_id="b0">
+				<name>Generalized anxiety disorder
+</name>
+			</node>
+			<node id="b325" parent_id="b0">
+				<name>Other specified anxiety disorders
+</name>
+			</node>
+			<node id="b326" parent_id="b0">
+				<name>Anxiety disorder
+</name>
+			</node>
+			<node id="b327" parent_id="b0">
+				<name>Obsessive-compulsive disorder
+</name>
+			</node>
+			<node id="b328" parent_id="b0">
+				<name>Acute stress reaction
+</name>
+			</node>
+			<node id="b329" parent_id="b0">
+				<name>Post-traumatic stress disorder
+</name>
+			</node>
+			<node id="b330" parent_id="b0">
+				<name>Adjustment disorder
+</name>
+			</node>
+			<node id="b331" parent_id="b0">
+				<name>Adjustment disorder with depressed mood
+</name>
+			</node>
+			<node id="b332" parent_id="b0">
+				<name>Adjustment disorder with anxiety
+</name>
+			</node>
+			<node id="b333" parent_id="b0">
+				<name>Adjustment disorder with mixed anxiety and depressed mood
+</name>
+			</node>
+			<node id="b334" parent_id="b0">
+				<name>Adjustment disorder with disturbance of conduct
+</name>
+			</node>
+			<node id="b335" parent_id="b0">
+				<name>Adjustment disorder with mixed disturbance of emotions and conduct
+</name>
+			</node>
+			<node id="b336" parent_id="b0">
+				<name>Other reactions to severe stress
+</name>
+			</node>
+			<node id="b337" parent_id="b0">
+				<name>Reaction to severe stress
+</name>
+			</node>
+			<node id="b338" parent_id="b0">
+				<name>Dissociative amnesia
+</name>
+			</node>
+			<node id="b339" parent_id="b0">
+				<name>Dissociative fugue
+</name>
+			</node>
+			<node id="b340" parent_id="b0">
+				<name>Conversion disorder with motor symptom or deficit
+</name>
+			</node>
+			<node id="b341" parent_id="b0">
+				<name>Conversion disorder with seizures or convulsions
+</name>
+			</node>
+			<node id="b342" parent_id="b0">
+				<name>Conversion disorder with sensory symptom or deficit
+</name>
+			</node>
+			<node id="b343" parent_id="b0">
+				<name>Conversion disorder with mixed symptom presentation
+</name>
+			</node>
+			<node id="b344" parent_id="b0">
+				<name>Dissociative identity disorder
+</name>
+			</node>
+			<node id="b345" parent_id="b0">
+				<name>Other dissociative and conversion disorders
+</name>
+			</node>
+			<node id="b346" parent_id="b0">
+				<name>Dissociative and conversion disorder
+</name>
+			</node>
+			<node id="b347" parent_id="b0">
+				<name>Undifferentiated somatoform disorder
+</name>
+			</node>
+			<node id="b348" parent_id="b0">
+				<name>Hypochondriasis
+</name>
+			</node>
+			<node id="b349" parent_id="b0">
+				<name>Body dysmorphic disorder
+</name>
+			</node>
+			<node id="b350" parent_id="b0">
+				<name>Other somatoform disorders
+</name>
+			</node>
+			<node id="b351" parent_id="b0">
+				<name>Somatoform disorder
+</name>
+			</node>
+			<node id="b352" parent_id="b0">
+				<name>Depersonalization-derealization syndrome
+</name>
+			</node>
+			<node id="b353" parent_id="b0">
+				<name>Anorexia nervosa restricting type
+</name>
+			</node>
+			<node id="b354" parent_id="b0">
+				<name>Anorexia nervosa binge eating/purging type
+</name>
+			</node>
+			<node id="b355" parent_id="b0">
+				<name>Bulimia nervosa
+</name>
+			</node>
+			<node id="b356" parent_id="b0">
+				<name>Other eating disorders
+</name>
+			</node>
+			<node id="b357" parent_id="b0">
+				<name>Eating disorder
+</name>
+			</node>
+			<node id="b358" parent_id="b0">
+				<name>Sleepwalking
+</name>
+			</node>
+			<node id="b359" parent_id="b0">
+				<name>Sleep terrors
+</name>
+			</node>
+			<node id="b360" parent_id="b0">
+				<name>Nightmare disorder
+</name>
+			</node>
+			<node id="b361" parent_id="b0">
+				<name>Hypoactive sexual desire disorder
+</name>
+			</node>
+			<node id="b362" parent_id="b0">
+				<name>Male erectile disorder
+</name>
+			</node>
+			<node id="b363" parent_id="b0">
+				<name>Female sexual arousal disorder
+</name>
+			</node>
+			<node id="b364" parent_id="b0">
+				<name>Female orgasmic disorder
+</name>
+			</node>
+			<node id="b365" parent_id="b0">
+				<name>Male orgasmic disorder
+</name>
+			</node>
+			<node id="b366" parent_id="b0">
+				<name>Premature ejaculation
+</name>
+			</node>
+			<node id="b367" parent_id="b0">
+				<name>Dyspareunia not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b368" parent_id="b0">
+				<name>Other sexual dysfunction not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b369" parent_id="b0">
+				<name>Unspecified sexual dysfunction not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b370" parent_id="b0">
+				<name>Psychological and behavioral factors associated with disorders or diseases classified elsewhere
+</name>
+			</node>
+			<node id="b371" parent_id="b0">
+				<name>Paranoid personality disorder
+</name>
+			</node>
+			<node id="b372" parent_id="b0">
+				<name>Schizoid personality disorder
+</name>
+			</node>
+			<node id="b373" parent_id="b0">
+				<name>Antisocial personality disorder
+</name>
+			</node>
+			<node id="b374" parent_id="b0">
+				<name>Borderline personality disorder
+</name>
+			</node>
+			<node id="b375" parent_id="b0">
+				<name>Histrionic personality disorder
+</name>
+			</node>
+			<node id="b376" parent_id="b0">
+				<name>Obsessive-compulsive personality disorder
+</name>
+			</node>
+			<node id="b377" parent_id="b0">
+				<name>Avoidant personality disorder
+</name>
+			</node>
+			<node id="b378" parent_id="b0">
+				<name>Dependent personality disorder
+</name>
+			</node>
+			<node id="b379" parent_id="b0">
+				<name>Narcissistic personality disorder
+</name>
+			</node>
+			<node id="b380" parent_id="b0">
+				<name>Other specific personality disorders
+</name>
+			</node>
+			<node id="b381" parent_id="b0">
+				<name>Personality disorder
+</name>
+			</node>
+			<node id="b382" parent_id="b0">
+				<name>Pathological gambling
+</name>
+			</node>
+			<node id="b383" parent_id="b0">
+				<name>Pyromania
+</name>
+			</node>
+			<node id="b384" parent_id="b0">
+				<name>Kleptomania
+</name>
+			</node>
+			<node id="b385" parent_id="b0">
+				<name>Trichotillomania
+</name>
+			</node>
+			<node id="b386" parent_id="b0">
+				<name>Intermittent explosive disorder
+</name>
+			</node>
+			<node id="b387" parent_id="b0">
+				<name>Dual role transvestism
+</name>
+			</node>
+			<node id="b388" parent_id="b0">
+				<name>Gender identity disorder of childhood
+</name>
+			</node>
+			<node id="b389" parent_id="b0">
+				<name>Other gender identity disorders
+</name>
+			</node>
+			<node id="b390" parent_id="b0">
+				<name>Gender identity disorder
+</name>
+			</node>
+			<node id="b391" parent_id="b0">
+				<name>Fetishism
+</name>
+			</node>
+			<node id="b392" parent_id="b0">
+				<name>Transvestic fetishism
+</name>
+			</node>
+			<node id="b393" parent_id="b0">
+				<name>Exhibitionism
+</name>
+			</node>
+			<node id="b394" parent_id="b0">
+				<name>Voyeurism
+</name>
+			</node>
+			<node id="b395" parent_id="b0">
+				<name>Pedophilia
+</name>
+			</node>
+			<node id="b396" parent_id="b0">
+				<name>Sexual masochism
+</name>
+			</node>
+			<node id="b397" parent_id="b0">
+				<name>Sexual sadism
+</name>
+			</node>
+			<node id="b398" parent_id="b0">
+				<name>Frotteurism
+</name>
+			</node>
+			<node id="b399" parent_id="b0">
+				<name>Other paraphilias
+</name>
+			</node>
+			<node id="b400" parent_id="b0">
+				<name>Paraphilia
+</name>
+			</node>
+			<node id="b401" parent_id="b0">
+				<name>Factitious disorder
+</name>
+			</node>
+			<node id="b402" parent_id="b0">
+				<name>Mild intellectual disabilities
+</name>
+			</node>
+			<node id="b403" parent_id="b0">
+				<name>Moderate intellectual disabilities
+</name>
+			</node>
+			<node id="b404" parent_id="b0">
+				<name>Severe intellectual disabilities
+</name>
+			</node>
+			<node id="b405" parent_id="b0">
+				<name>Profound intellectual disabilities
+</name>
+			</node>
+			<node id="b406" parent_id="b0">
+				<name>Unspecified intellectual disabilities
+</name>
+			</node>
+			<node id="b407" parent_id="b0">
+				<name>Phonological disorder
+</name>
+			</node>
+			<node id="b408" parent_id="b0">
+				<name>Childhood onset fluency disorder
+</name>
+			</node>
+			<node id="b409" parent_id="b0">
+				<name>Other developmental disorders of speech and language
+</name>
+			</node>
+			<node id="b410" parent_id="b0">
+				<name>Developmental disorder of speech and language
+</name>
+			</node>
+			<node id="b411" parent_id="b0">
+				<name>Specific reading disorder
+</name>
+			</node>
+			<node id="b412" parent_id="b0">
+				<name>Mathematics disorder
+</name>
+			</node>
+			<node id="b413" parent_id="b0">
+				<name>Disorder of written expression
+</name>
+			</node>
+			<node id="b414" parent_id="b0">
+				<name>Specific developmental disorder of motor function
+</name>
+			</node>
+			<node id="b415" parent_id="b0">
+				<name>Autistic disorder
+</name>
+			</node>
+			<node id="b416" parent_id="b0">
+				<name>Other disorders of psychological development
+</name>
+			</node>
+			<node id="b417" parent_id="b0">
+				<name>Unspecified disorder of psychological development
+</name>
+			</node>
+			<node id="b418" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder predominantly inattentive type
+</name>
+			</node>
+			<node id="b419" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder predominantly hyperactive type
+</name>
+			</node>
+			<node id="b420" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder combined type
+</name>
+			</node>
+			<node id="b421" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder other type
+</name>
+			</node>
+			<node id="b422" parent_id="b0">
+				<name>Attention-deficit hyperactivity disorder type
+</name>
+			</node>
+			<node id="b423" parent_id="b0">
+				<name>Conduct disorder childhood-onset type
+</name>
+			</node>
+			<node id="b424" parent_id="b0">
+				<name>Conduct disorder adolescent-onset type
+</name>
+			</node>
+			<node id="b425" parent_id="b0">
+				<name>Oppositional defiant disorder
+</name>
+			</node>
+			<node id="b426" parent_id="b0">
+				<name>Other conduct disorders
+</name>
+			</node>
+			<node id="b427" parent_id="b0">
+				<name>Conduct disorder
+</name>
+			</node>
+			<node id="b428" parent_id="b0">
+				<name>Separation anxiety disorder of childhood
+</name>
+			</node>
+			<node id="b429" parent_id="b0">
+				<name>Selective mutism
+</name>
+			</node>
+			<node id="b430" parent_id="b0">
+				<name>Reactive attachment disorder of childhood
+</name>
+			</node>
+			<node id="b431" parent_id="b0">
+				<name>Disinhibited attachment disorder of childhood
+</name>
+			</node>
+			<node id="b432" parent_id="b0">
+				<name>Transient tic disorder
+</name>
+			</node>
+			<node id="b433" parent_id="b0">
+				<name>Chronic motor or vocal tic disorder
+</name>
+			</node>
+			<node id="b434" parent_id="b0">
+				<name>Tourette's disorder
+</name>
+			</node>
+			<node id="b435" parent_id="b0">
+				<name>Other tic disorders
+</name>
+			</node>
+			<node id="b436" parent_id="b0">
+				<name>Tic disorder
+</name>
+			</node>
+			<node id="b437" parent_id="b0">
+				<name>Enuresis not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b438" parent_id="b0">
+				<name>Encopresis not due to a substance or known physiological condition
+</name>
+			</node>
+			<node id="b439" parent_id="b0">
+				<name>Rumination disorder of infancy
+</name>
+			</node>
+			<node id="b440" parent_id="b0">
+				<name>Pica of infancy and childhood
+</name>
+			</node>
+			<node id="b441" parent_id="b0">
+				<name>Stereotyped movement disorders
+</name>
+			</node>
+			<node id="b442" parent_id="b0">
+				<name>Adult onset fluency disorder
+</name>
+			</node>
+			<node id="b443" parent_id="b0">
+				<name>Mental disorder not otherwise specified
+</name>
+			</node>
+			<node id="b444" parent_id="b0">
+				<name>Malignant neuroleptic syndrome
+</name>
+			</node>
+			<node id="b445" parent_id="b0">
+				<name>Neuroleptic induced parkinsonism
+</name>
+			</node>
+			<node id="b446" parent_id="b0">
+				<name>Other drug induced secondary parkinsonism
+</name>
+			</node>
+			<node id="b447" parent_id="b0">
+				<name>Drug induced subacute dyskinesia
+</name>
+			</node>
+			<node id="b448" parent_id="b0">
+				<name>Drug induced acute dystonia
+</name>
+			</node>
+			<node id="b449" parent_id="b0">
+				<name>Other drug induced dystonia
+</name>
+			</node>
+			<node id="b450" parent_id="b0">
+				<name>Drug-induced tremor
+</name>
+			</node>
+			<node id="b451" parent_id="b0">
+				<name>Drug induced akathisia
+</name>
+			</node>
+			<node id="b452" parent_id="b0">
+				<name>Other drug induced movement disorders
+</name>
+			</node>
+			<node id="b453" parent_id="b0">
+				<name>Restless legs syndrome
+</name>
+			</node>
+			<node id="b454" parent_id="b0">
+				<name>Mild cognitive impairment
+</name>
+			</node>
+			<node id="b455" parent_id="b0">
+				<name>Degenerative disease of nervous system
+</name>
+			</node>
+			<node id="b456" parent_id="b0">
+				<name>Insomnia
+</name>
+			</node>
+			<node id="b457" parent_id="b0">
+				<name>Other insomnia
+</name>
+			</node>
+			<node id="b458" parent_id="b0">
+				<name>Hypersomnia
+</name>
+			</node>
+			<node id="b459" parent_id="b0">
+				<name>Other hypersomnia
+</name>
+			</node>
+			<node id="b460" parent_id="b0">
+				<name>Circadian rhythm sleep disorder type
+</name>
+			</node>
+			<node id="b461" parent_id="b0">
+				<name>Circadian rhythm sleep disorder delayed sleep phase type
+</name>
+			</node>
+			<node id="b462" parent_id="b0">
+				<name>Circadian rhythm sleep disorder advanced sleep phase type
+</name>
+			</node>
+			<node id="b463" parent_id="b0">
+				<name>Circadian rhythm sleep disorder irregular sleep wake type
+</name>
+			</node>
+			<node id="b464" parent_id="b0">
+				<name>Circadian rhythm sleep disorder free running type
+</name>
+			</node>
+			<node id="b465" parent_id="b0">
+				<name>Circadian rhythm sleep disorder shift work type
+</name>
+			</node>
+			<node id="b466" parent_id="b0">
+				<name>Primary central sleep apnea
+</name>
+			</node>
+			<node id="b467" parent_id="b0">
+				<name>Obstructive sleep apnea
+</name>
+			</node>
+			<node id="b468" parent_id="b0">
+				<name>Idiopathic sleep related nonobstructive alveolar hypoventilation
+</name>
+			</node>
+			<node id="b469" parent_id="b0">
+				<name>Congenital central alveolar hypoventilation syndrome
+</name>
+			</node>
+			<node id="b470" parent_id="b0">
+				<name>Sleep related hypoventilation in conditions classified elsewhere
+</name>
+			</node>
+			<node id="b471" parent_id="b0">
+				<name>Central sleep apnea in conditions classified elsewhere
+</name>
+			</node>
+			<node id="b472" parent_id="b0">
+				<name>Narcolepsy with cataplexy
+</name>
+			</node>
+			<node id="b473" parent_id="b0">
+				<name>Narcolepsy without cataplexy
+</name>
+			</node>
+			<node id="b474" parent_id="b0">
+				<name>Narcolepsy in conditions classified elsewhere without cataplexy
+</name>
+			</node>
+			<node id="b475" parent_id="b0">
+				<name>REM sleep behavior disorder
+</name>
+			</node>
+			<node id="b476" parent_id="b0">
+				<name>Other sleep disorders
+</name>
+			</node>
+			<node id="b477" parent_id="b0">
+				<name>Sleep disorder
+</name>
+			</node>
+			<node id="b478" parent_id="b0">
+				<name>Factitial dermatitis
+</name>
+			</node>
+			<node id="b479" parent_id="b0">
+				<name>Other specified urinary incontinence
+</name>
+			</node>
+			<node id="b480" parent_id="b0">
+				<name>Premenstrual tension syndrome
+</name>
+			</node>
+			<node id="b481" parent_id="b0">
+				<name>Periodic breathing
+</name>
+			</node>
+			<node id="b482" parent_id="b0">
+				<name>Full incontinence of feces
+</name>
+			</node>
+			<node id="b483" parent_id="b0">
+				<name>Unspecified urinary incontinence
+</name>
+			</node>
+			<node id="b484" parent_id="b0">
+				<name>Disorientation
+</name>
+			</node>
+			<node id="b485" parent_id="b0">
+				<name>Borderline intellectual functioning
+</name>
+			</node>
+			<node id="b486" parent_id="b0">
+				<name>Unspecified symptoms and signs involving cognitive functions and awareness
+</name>
+			</node>
+			<node id="b487" parent_id="b0">
+				<name>Adverse effect of unspecified antidepressants initial encounter
+</name>
+			</node>
+			<node id="b488" parent_id="b0">
+				<name>Adverse effect of unspecified antidepressants subsequent encounter
+</name>
+			</node>
+			<node id="b489" parent_id="b0">
+				<name>Adverse effect of unspecified antidepressants sequela
+</name>
+			</node>
+			<node id="b490" parent_id="b0">
+				<name>Adverse effect of unspecified drugs medicaments and biological substances initial encounter
+</name>
+			</node>
+			<node id="b491" parent_id="b0">
+				<name>Adverse effect of unspecified drugs medicaments and biological substances subsequent encounter
+</name>
+			</node>
+			<node id="b492" parent_id="b0">
+				<name>Adverse effect of unspecified drugs medicaments and biological substances sequela
+</name>
+			</node>
+			<node id="b493" parent_id="b0">
+				<name>Adult neglect or abandonment confirmed initial encounter
+</name>
+			</node>
+			<node id="b494" parent_id="b0">
+				<name>Adult neglect or abandonment confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b495" parent_id="b0">
+				<name>Child neglect or abandonment confirmed initial encounter
+</name>
+			</node>
+			<node id="b496" parent_id="b0">
+				<name>Child neglect or abandonment confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b497" parent_id="b0">
+				<name>Adult physical abuse confirmed initial encounter
+</name>
+			</node>
+			<node id="b498" parent_id="b0">
+				<name>Adult physical abuse confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b499" parent_id="b0">
+				<name>Child physical abuse confirmed initial encounter
+</name>
+			</node>
+			<node id="b500" parent_id="b0">
+				<name>Child physical abuse confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b501" parent_id="b0">
+				<name>Adult sexual abuse confirmed initial encounter
+</name>
+			</node>
+			<node id="b502" parent_id="b0">
+				<name>Adult sexual abuse confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b503" parent_id="b0">
+				<name>Child sexual abuse confirmed initial encounter
+</name>
+			</node>
+			<node id="b504" parent_id="b0">
+				<name>Child sexual abuse confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b505" parent_id="b0">
+				<name>Adult psychological abuse confirmed initial encounter
+</name>
+			</node>
+			<node id="b506" parent_id="b0">
+				<name>Adult psychological abuse confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b507" parent_id="b0">
+				<name>Child psychological abuse confirmed initial encounter
+</name>
+			</node>
+			<node id="b508" parent_id="b0">
+				<name>Child psychological abuse confirmed subsequent encounter
+</name>
+			</node>
+			<node id="b509" parent_id="b0">
+				<name>Adult neglect or abandonment suspected initial encounter
+</name>
+			</node>
+			<node id="b510" parent_id="b0">
+				<name>Adult neglect or abandonment suspected subsequent encounter
+</name>
+			</node>
+			<node id="b511" parent_id="b0">
+				<name>Child neglect or abandonment suspected initial encounter
+</name>
+			</node>
+			<node id="b512" parent_id="b0">
+				<name>Child neglect or abandonment suspected subsequent encounter
+</name>
+			</node>
+			<node id="b513" parent_id="b0">
+				<name>Adult physical abuse suspected initial encounter
+</name>
+			</node>
+			<node id="b514" parent_id="b0">
+				<name>Adult physical abuse suspected subsequent encounter
+</name>
+			</node>
+			<node id="b515" parent_id="b0">
+				<name>Child physical abuse suspected initial encounter
+</name>
+			</node>
+			<node id="b516" parent_id="b0">
+				<name>Child physical abuse suspected subsequent encounter
+</name>
+			</node>
+			<node id="b517" parent_id="b0">
+				<name>Adult sexual abuse suspected initial encounter
+</name>
+			</node>
+			<node id="b518" parent_id="b0">
+				<name>Adult sexual abuse suspected subsequent encounter
+</name>
+			</node>
+			<node id="b519" parent_id="b0">
+				<name>Child sexual abuse suspected initial encounter
+</name>
+			</node>
+			<node id="b520" parent_id="b0">
+				<name>Child sexual abuse suspected subsequent encounter
+</name>
+			</node>
+			<node id="b521" parent_id="b0">
+				<name>Adult psychological abuse suspected initial encounter
+</name>
+			</node>
+			<node id="b522" parent_id="b0">
+				<name>Adult psychological abuse suspected subsequent encounter
+</name>
+			</node>
+			<node id="b523" parent_id="b0">
+				<name>Child psychological abuse suspected initial encounter
+</name>
+			</node>
+			<node id="b524" parent_id="b0">
+				<name>Child psychological abuse suspected subsequent encounter
+</name>
+			</node>
+			<node id="b525" parent_id="b0">
+				<name>Encounter for observation for other suspected diseases and conditions ruled out
+</name>
+			</node>
+			<node id="b526" parent_id="b0">
+				<name>Problems related to education and literacy
+</name>
+			</node>
+			<node id="b527" parent_id="b0">
+				<name>Military deployment status
+</name>
+			</node>
+			<node id="b528" parent_id="b0">
+				<name>Unspecified problems related to employment
+</name>
+			</node>
+			<node id="b529" parent_id="b0">
+				<name>Homelessness
+</name>
+			</node>
+			<node id="b530" parent_id="b0">
+				<name>Inadequate housing
+</name>
+			</node>
+			<node id="b531" parent_id="b0">
+				<name>Discord with neighbors lodgers and landlord
+</name>
+			</node>
+			<node id="b532" parent_id="b0">
+				<name>Problems related to living in residential institution
+</name>
+			</node>
+			<node id="b533" parent_id="b0">
+				<name>Lack of adequate food and safe drinking water
+</name>
+			</node>
+			<node id="b534" parent_id="b0">
+				<name>Extreme poverty
+</name>
+			</node>
+			<node id="b535" parent_id="b0">
+				<name>Low income
+</name>
+			</node>
+			<node id="b536" parent_id="b0">
+				<name>Insufficient social insurance and welfare support
+</name>
+			</node>
+			<node id="b537" parent_id="b0">
+				<name>Problem related to housing and economic circumstances
+</name>
+			</node>
+			<node id="b538" parent_id="b0">
+				<name>Problems of adjustment to life-cycle transitions
+</name>
+			</node>
+			<node id="b539" parent_id="b0">
+				<name>Problems related to living alone
+</name>
+			</node>
+			<node id="b540" parent_id="b0">
+				<name>Acculturation difficulty
+</name>
+			</node>
+			<node id="b541" parent_id="b0">
+				<name>Social exclusion and rejection
+</name>
+			</node>
+			<node id="b542" parent_id="b0">
+				<name>Target of adverse discrimination and persecution
+</name>
+			</node>
+			<node id="b543" parent_id="b0">
+				<name>Problem related to social environment
+</name>
+			</node>
+			<node id="b544" parent_id="b0">
+				<name>Other upbringing away from parents
+</name>
+			</node>
+			<node id="b545" parent_id="b0">
+				<name>Personal history of physical and sexual abuse in childhood
+</name>
+			</node>
+			<node id="b546" parent_id="b0">
+				<name>Personal history of psychological abuse in childhood
+</name>
+			</node>
+			<node id="b547" parent_id="b0">
+				<name>Personal history of neglect in childhood
+</name>
+			</node>
+			<node id="b548" parent_id="b0">
+				<name>Parent-biological child conflict
+</name>
+			</node>
+			<node id="b549" parent_id="b0">
+				<name>Sibling rivalry
+</name>
+			</node>
+			<node id="b550" parent_id="b0">
+				<name>Other specified problems related to upbringing
+</name>
+			</node>
+			<node id="b551" parent_id="b0">
+				<name>Problems in relationship with spouse or partner
+</name>
+			</node>
+			<node id="b552" parent_id="b0">
+				<name>Disappearance and death of family member
+</name>
+			</node>
+			<node id="b553" parent_id="b0">
+				<name>Disruption of family by separation and divorce
+</name>
+			</node>
+			<node id="b554" parent_id="b0">
+				<name>Other specified problems related to primary support group
+</name>
+			</node>
+			<node id="b555" parent_id="b0">
+				<name>Problems related to unwanted pregnancy
+</name>
+			</node>
+			<node id="b556" parent_id="b0">
+				<name>Problems related to multiparity
+</name>
+			</node>
+			<node id="b557" parent_id="b0">
+				<name>Discord with counselors
+</name>
+			</node>
+			<node id="b558" parent_id="b0">
+				<name>Conviction in civil and criminal proceedings without imprisonment
+</name>
+			</node>
+			<node id="b559" parent_id="b0">
+				<name>Imprisonment and other incarceration
+</name>
+			</node>
+			<node id="b560" parent_id="b0">
+				<name>Problems related to release from prison
+</name>
+			</node>
+			<node id="b561" parent_id="b0">
+				<name>Problems related to other legal circumstances
+</name>
+			</node>
+			<node id="b562" parent_id="b0">
+				<name>Victim of crime and terrorism
+</name>
+			</node>
+			<node id="b563" parent_id="b0">
+				<name>Exposure to disaster war and other hostilities
+</name>
+			</node>
+			<node id="b564" parent_id="b0">
+				<name>Other specified problems related to psychosocial circumstances
+</name>
+			</node>
+			<node id="b565" parent_id="b0">
+				<name>Problem related to unspecified psychosocial circumstances
+</name>
+			</node>
+			<node id="b566" parent_id="b0">
+				<name>Encounter for mental health services for victim of parental child abuse
+</name>
+			</node>
+			<node id="b567" parent_id="b0">
+				<name>Encounter for mental health services for perpetrator of parental child abuse
+</name>
+			</node>
+			<node id="b568" parent_id="b0">
+				<name>Encounter for mental health services for victim of non-parental child abuse
+</name>
+			</node>
+			<node id="b569" parent_id="b0">
+				<name>Encounter for mental health services for perpetrator of non-parental child abuse
+</name>
+			</node>
+			<node id="b570" parent_id="b0">
+				<name>Encounter for mental health services for victim of spousal or partner abuse
+</name>
+			</node>
+			<node id="b571" parent_id="b0">
+				<name>Encounter for mental health services for perpetrator of spousal or partner abuse
+</name>
+			</node>
+			<node id="b572" parent_id="b0">
+				<name>Encounter for mental health services for victim of other abuse
+</name>
+			</node>
+			<node id="b573" parent_id="b0">
+				<name>Encounter for mental health services for perpetrator of other abuse
+</name>
+			</node>
+			<node id="b574" parent_id="b0">
+				<name>Sex counseling
+</name>
+			</node>
+			<node id="b575" parent_id="b0">
+				<name>Counseling
+</name>
+			</node>
+			<node id="b576" parent_id="b0">
+				<name>Tobacco use
+</name>
+			</node>
+			<node id="b577" parent_id="b0">
+				<name>Child and adolescent antisocial behavior
+</name>
+			</node>
+			<node id="b578" parent_id="b0">
+				<name>Adult antisocial behavior
+</name>
+			</node>
+			<node id="b579" parent_id="b0">
+				<name>Problem related to lifestyle
+</name>
+			</node>
+			<node id="b580" parent_id="b0">
+				<name>Unavailability and inaccessibility of health-care facilities
+</name>
+			</node>
+			<node id="b581" parent_id="b0">
+				<name>Unavailability and inaccessibility of other helping agencies
+</name>
+			</node>
+			<node id="b582" parent_id="b0">
+				<name>Malingerer
+</name>
+			</node>
+			<node id="b583" parent_id="b0">
+				<name>Patient's noncompliance with other medical treatment and regimen
+</name>
+			</node>
+			<node id="b584" parent_id="b0">
+				<name>Personal history of adult physical and sexual abuse
+</name>
+			</node>
+			<node id="b585" parent_id="b0">
+				<name>Personal history of adult psychological abuse
+</name>
+			</node>
+			<node id="b586" parent_id="b0">
+				<name>Personal history of adult neglect
+</name>
+			</node>
+			<node id="b587" parent_id="b0">
+				<name>Other personal history of psychological trauma not elsewhere classified
+</name>
+			</node>
+			<node id="b588" parent_id="b0">
+				<name>Personal history of self-harm
+</name>
+			</node>
+			<node id="b589" parent_id="b0">
+				<name>Personal history of military deployment
+</name>
+			</node>
+			<node id="b590" parent_id="b0">
+				<name>Wandering in diseases classified elsewhere
+</name>
+			</node>
+			<node id="b591" parent_id="b0">
+				<name>Other specified personal risk factors not elsewhere classified</name>
+			</node>
+		</children>
+	</node>
+</context>
